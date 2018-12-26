@@ -14,4 +14,6 @@
 # 有用的参考
 
  * [前端工程](https://github.com/stevenli91748/blog)
- * 
+ * [前端技能汇总](https://github.com/JacksonTian/fks)
+ * [Web前端开发技术栈](https://github.com/unruledboy/WebFrontEndStack/blob/master/README.zh-cn.md)
+ * [打造最舒适的webview调试环境](https://github.com/riskers/blog/issues/11)
