@@ -24,3 +24,4 @@ Electron桌面开发神器|
  * [打造最舒适的webview调试环境](https://github.com/riskers/blog/issues/11)
  * [REST风格框架实战：从MVC到前后端分离(附完整Demo)](https://blog.csdn.net/justloveyou_/article/details/74379479)
  * [前端涉及的所有知识体系](https://blog.csdn.net/u013063153/article/details/52424176#t0)
+ * [web前端学习资源分享](https://cloud.tencent.com/developer/article/1193373)
