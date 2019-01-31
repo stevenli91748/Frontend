@@ -25,3 +25,8 @@ Electron桌面开发神器|
  * [REST风格框架实战：从MVC到前后端分离(附完整Demo)](https://blog.csdn.net/justloveyou_/article/details/74379479)
  * [前端涉及的所有知识体系](https://blog.csdn.net/u013063153/article/details/52424176#t0)
  * [web前端学习资源分享](https://cloud.tencent.com/developer/article/1193373)
+ * [图解基于node.js实现前后端分离](https://yalishizhude.github.io/2016/04/19/front-back-separation/)
+ * [接口调试（上）—— 前后端分离之痛](https://yalishizhude.github.io/2015/09/01/api-test-1/)
+ * [接口调试（中）—— 解决方案构想](https://yalishizhude.github.io/2015/09/08/api-test-2/)
+ * [接口调试（下）——让接口服务器为前后端解耦](https://yalishizhude.github.io/2016/01/06/api-test-3/)
+ * [利用handlebars实现后端组件化](https://yalishizhude.github.io/2016/04/26/back-componentization/)
