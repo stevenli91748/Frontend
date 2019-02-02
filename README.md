@@ -30,3 +30,4 @@ Electron桌面开发神器|
  * [接口调试（中）—— 解决方案构想](https://yalishizhude.github.io/2015/09/08/api-test-2/)
  * [接口调试（下）——让接口服务器为前后端解耦](https://yalishizhude.github.io/2016/01/06/api-test-3/)
  * [利用handlebars实现后端组件化](https://yalishizhude.github.io/2016/04/26/back-componentization/)
+ * [九种跨域方式实现原理](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/86684523)
