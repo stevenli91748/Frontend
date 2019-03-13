@@ -17,6 +17,8 @@ Electron桌面开发神器|
 
 
 # 有用的参考
+ * [Web前端书单从HTML到JS到AJAX到HTTP从框架到全栈过来人帮你走更少弯路（珍藏版）](https://pymlovelyq.github.io/2018/10/17/WebFont/)
+
  * [前端技术及开发模式的演进，带你了解前端技术的前世今生](https://my.oschina.net/cccyb/blog/3014293)
  * [前端工程](https://github.com/stevenli91748/blog)
  * [前端技能汇总](https://github.com/JacksonTian/fks)
