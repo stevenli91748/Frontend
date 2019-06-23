@@ -17,6 +17,8 @@ Electron桌面开发神器|
 
 
 # 有用的参考
+
+ * [如何规划学习步骤](https://blog.csdn.net/weixin_44135121/article/details/93226590)
  * [前端面试知识点目录整理](https://mp.weixin.qq.com/s/mtyVyof5na16iVmUDD2ssA)
  * [程序员一般喜欢浏览哪些网站呢？](https://www.zhihu.com/question/283272958/answer/598956527?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
  * [为什么越来越少的人用 jQuery？](https://blog.csdn.net/csdnnews/article/details/84901006)
