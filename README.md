@@ -44,3 +44,4 @@ Electron桌面开发神器|
  * [九种跨域方式实现原理](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/86684523)
  * [抓包工具 Fiddler 相关知识总结](http://www.youmeek.com/fiddler/)
  * [盘点2018上半年最受欢迎的前端开发](https://blog.csdn.net/zhouting9907/article/details/81081936)
+ * [你需要了解的前端测试“金字塔”](https://www.oschina.net/translate/the-front-end-test-pyramid-rethink-your-testing)
