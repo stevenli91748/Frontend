@@ -16,7 +16,9 @@ Electron桌面开发神器|
 # 前端项目工程化
 
 
+# 前端视频
 
+* [尚硅谷前端：自动化构建工具Grunt+Gulp+webpack](https://www.bilibili.com/video/av67462199)
 
 
 # 有用的参考
