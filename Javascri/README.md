@@ -4,6 +4,8 @@
 # JavaScript 视频
 
  [尚硅谷Javascript140集](https://www.bilibili.com/video/av51651471/?spm_id_from=333.788.videocard.2)
+ 
+ [尚硅谷JavaScript高级篇](https://www.bilibili.com/video/av51745204/?spm_id_from=333.788.videocard.0)
 
 
 # 有用的参考
