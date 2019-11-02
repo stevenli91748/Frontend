@@ -4,6 +4,9 @@
 
  [月薪10000+的Node.JS视频教程](https://www.bilibili.com/video/av53671663/?spm_id_from=333.788.videocard.3)
 
+ [轻松搞定Node后台管理系统](https://www.bilibili.com/video/av54440690/?spm_id_from=333.788.videocard.0)
+ 
+ [Nodejs视频教程完整版_Nodejs+Express NodeJS+koa视频教程](https://www.bilibili.com/video/av38925557/?spm_id_from=333.788.videocard.1)
 
 # 有用的参考
 
