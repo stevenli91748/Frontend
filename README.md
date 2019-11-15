@@ -10,7 +10,7 @@ Electron桌面开发神器|
 
 # 前端基础
 
-HTML5|CSS3|[Bootstrap](https://github.com/stevenli91748/Frontend/blob/master/Bootstrap/README.md)|Javascript|JQuery|Less|
+[HTML5](https://github.com/stevenli91748/Frontend/blob/master/HTML5/README.md)|CSS3|[Bootstrap](https://github.com/stevenli91748/Frontend/blob/master/Bootstrap/README.md)|Javascript|JQuery|Less|
 ---|---|---|---|---|---|
 
 # 高级框架
@@ -31,7 +31,7 @@ Grunt|Gulp|Webpack|
 
 # 规范集成
 
-ESS_6_7规范|JS模块规范|
+[ESS_6_7规范](https://github.com/stevenli91748/Frontend/blob/master/规范集成/ESS_6_7规范/README.md)|[JS模块规范](https://github.com/stevenli91748/Frontend/blob/master/规范集成/JS模块规范/README.md)|
 ---|--|
 
 # 前端项目工程化
@@ -47,8 +47,7 @@ ESS_6_7规范|JS模块规范|
 
 
 # 前端视频
-* [尚硅谷Web前端全套教程（上）](https://www.bilibili.com/video/av73061364?from=search&seid=4381365078909776783)
-* [尚硅谷Web前端全套教程（下](https://www.bilibili.com/video/av73133656/?spm_id_from=333.788.videocard.2)
+
 * [尚硅谷前端：自动化构建工具Grunt+Gulp+webpack](https://www.bilibili.com/video/av67462199)
 * [webpack打包简介](https://www.bilibili.com/video/av23881957/?spm_id_from=333.788.videocard.11)
 * []()
