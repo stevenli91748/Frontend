@@ -9,6 +9,7 @@
 # 视频
 
 * [尚硅谷前端：求职指导](https://www.bilibili.com/video/av67569067?from=search&seid=1207868749551698080)
+* [尚硅谷前端面试题（第一季）](https://www.bilibili.com/video/av35041371?from=search&seid=3761726523875051382)
 
 
 
