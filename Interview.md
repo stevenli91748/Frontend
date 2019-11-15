@@ -8,7 +8,7 @@
 
 # 视频
 
-
+* [尚硅谷前端：求职指导](https://www.bilibili.com/video/av67569067?from=search&seid=1207868749551698080)
 
 
 
