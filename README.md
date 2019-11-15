@@ -9,11 +9,32 @@ Electron桌面开发神器|
 
 # 前端基础
 
-HTML5|CSS3|Bootstrap|AngularJS|Javascript|JQuery|Less|
----|---|---|---|---|---|---|
+HTML5|CSS3|[Bootstrap](https://github.com/stevenli91748/Frontend/blob/master/Bootstrap/README.md)|Javascript|JQuery|Less|
+---|---|---|---|---|---|
 
-[VUE.JS](https://github.com/stevenli91748/Frontend/blob/master/VueJS/README)|[React](https://github.com/stevenli91748/Frontend/blob/master/react/README.md)|[Bootstrap](https://github.com/stevenli91748/Frontend/blob/master/Bootstrap/README.md)|
+# 高级框架
+
+[VUE.JS](https://github.com/stevenli91748/Frontend/blob/master/VueJS/README)|[React.js](https://github.com/stevenli91748/Frontend/blob/master/react/README.md)|Promise|Axios|Mpvue核心技术|
+---|---|---|---|---|
+
+
+# 后台服务器端
+
+Node.js|MongoDB|
+---|---|
+
+# 自动化构建工具
+
+Grunt|Gulp|Webpack|
 ---|---|---|
+
+# 规范集成
+
+ESS_6_7规范|JS模块规范|
+---|--|
+
+# 项目实战
+
 
 
 # [前端学习路径](https://github.com/stevenli91748/Frontend/blob/master/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84.md)
