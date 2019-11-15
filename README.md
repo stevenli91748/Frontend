@@ -38,7 +38,7 @@ Grunt|Gulp|[Webpack](https://github.com/stevenli91748/Frontend/blob/master/Webpa
 
 
 # 项目实战
-
+* [尚硅谷前端HTML5视频_谷粒音乐实战](https://www.bilibili.com/video/av27146255?from=search&seid=3761726523875051382)
 
 
 
