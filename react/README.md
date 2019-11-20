@@ -7,3 +7,5 @@
 * [尚硅谷前端：React框架](https://www.bilibili.com/video/av67465246?from=search&seid=13576425469917806454)
 * [尚硅谷前端：React全栈项目谷粒后台](https://www.bilibili.com/video/av67517553?from=search&seid=8498443111459329613 "该项目是基于新版本 React 全家桶的后台管理项目，包括前端PC应用和后端应用,采用模块化、组件化、工程化的模式开发,项目架构 前台: React + Redux + React-Router + Axios + webpack
 后台: Node + Express + MongoDB + Mongoose")
+* [尚硅谷前端_硅谷直聘](https://www.bilibili.com/video/av49927093?from=search&seid=7125830216553997393 “该项目是基于新版本 React 的全栈项目，此项目为一个前后台分离的招聘的移动端Web SPA, 包括前端应用和后端应用,功能类似于BOSS直聘，技术点
+React, React-Router-DOM, Redux, antd-mobile, Axios,Postman, webpack, ESlint,create-react-app,Babel, MD5, js-cookie, socket-io”)
