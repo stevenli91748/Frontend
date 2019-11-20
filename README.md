@@ -38,8 +38,7 @@ Electron桌面开发神器|[Webstorm](https://github.com/stevenli91748/Frontend/
 
 
 # 前端视频
-* [尚硅谷前端HTML5视频_谷粒音乐实战](https://www.bilibili.com/video/av27146255?from=search&seid=3761726523875051382 “该项目是基于Vue技术栈的电商项目, 是一个前后台分离的全栈PC端Web SPA,基本包含了经典电商项目的所有核心功能，前台: Vue + Vuex + Vue-Router + ES6 + Axios
-后台: Node + Express + MongoDB + Mongoose”)
+* [尚硅谷前端HTML5视频_谷粒音乐实战](https://www.bilibili.com/video/av27146255?from=search&seid=3761726523875051382) 
 * [硅谷直聘项目实战](https://www.bilibili.com/video/av27198246?from=search&seid=10516610192386877721)
 * [web前端开发--仿京东官网首页项目实战](https://v.youku.com/v_show/id_XMjk5MjU4OTMzNg==.html?spm=a2h0k.11417342.soresults.dposter)
 
