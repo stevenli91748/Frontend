@@ -13,3 +13,4 @@
 
 * [使用Node.js制作爬虫教程](http://blog.didispace.com/nodejspachong/)
 * [使用Node.js制作爬虫教程（续：爬图）](http://blog.didispace.com/nodejspachong2/)
+* [Node 项目从构建到使用 Jenkins 与 Docker 实现自动化部署](http://dockone.io/article/9507)
