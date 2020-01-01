@@ -49,7 +49,7 @@ Electron桌面开发神器|[Webstorm](https://github.com/stevenli91748/Frontend/
 
 
 # 有用的参考
-
+ * [京东2016版首页改版前端总结](https://aotu.io/notes/2016/12/26/jd-index-2016-summary/)
  * [如何规划学习步骤](https://blog.csdn.net/weixin_44135121/article/details/93226590)
  * [前端面试知识点目录整理](https://mp.weixin.qq.com/s/mtyVyof5na16iVmUDD2ssA)
  * [程序员一般喜欢浏览哪些网站呢？](https://www.zhihu.com/question/283272958/answer/598956527?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
