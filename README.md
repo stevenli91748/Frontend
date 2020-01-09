@@ -49,6 +49,8 @@ Electron桌面开发神器|[Webstorm](https://github.com/stevenli91748/Frontend/
 
 
 # 有用的参考
+ * [「微前端」- 将微服务理念扩展到前端开发（理论篇）](https://www.jianshu.com/p/92128d26b8ec)
+ * [「微前端」- 将微服务理念扩展到前端开发（实践篇）](https://www.jianshu.com/p/1f409df7de45)
  * [京东2016版首页改版前端总结](https://aotu.io/notes/2016/12/26/jd-index-2016-summary/)
  * [如何规划学习步骤](https://blog.csdn.net/weixin_44135121/article/details/93226590)
  * [前端面试知识点目录整理](https://mp.weixin.qq.com/s/mtyVyof5na16iVmUDD2ssA)
