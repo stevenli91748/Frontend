@@ -51,7 +51,7 @@ Electron桌面开发神器|[Webstorm](https://github.com/stevenli91748/Frontend/
 * [尚硅谷Web前端全套教程（上）](https://www.bilibili.com/video/av73061364/?spm_id_from=333.788.videocard.2)
 * [尚硅谷Web前端全套教程（下）](https://www.bilibili.com/video/av73133656?from=search&seid=11244233218314266730)
 * [2018最新千锋教育UI设计从入门到精通](https://www.bilibili.com/video/av31637405?from=search&seid=6827222005976129424)
-
+* [2019千锋Web前端-企业面试题精讲+常见问题讲解](https://www.bilibili.com/video/av76016832?from=search&seid=66813526675563111)
 
 
 # 有用的参考
