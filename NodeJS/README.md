@@ -11,6 +11,7 @@
 * [NodeJs实战+mongodb+聊天系统（下）](https://www.bilibili.com/video/av51459555/?spm_id_from=333.788.videocard.1)
 * [2019最新nodeJS从入门到大神【千锋Web前端】](https://www.bilibili.com/video/av53978941?from=search&seid=16033522356009238537)
 * [api设计第三版（node.js)](https://www.bilibili.com/video/av74605570?from=search&seid=5739552451698653385)
+* [撩课 Vue2.x+Node.js 拼多多商城项目实战\撩课 拼多多vue项目](https://www.bilibili.com/video/av78207763?from=search&seid=62145169076968126)
 # 有用的参考
 
 * [使用Node.js制作爬虫教程](http://blog.didispace.com/nodejspachong/)
