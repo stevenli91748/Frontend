@@ -44,6 +44,7 @@ Electron桌面开发神器|[Webstorm](https://github.com/stevenli91748/Frontend/
 
 
 # 前端视频
+* [web前端工程师 初级+中级+高级+资深+专家级（五部分完）](https://www.bilibili.com/video/av46236917/?spm_id_from=333.788.videocard.0)
 * [尚硅谷移动前端HTML5视频_谷粒音乐实战](https://www.bilibili.com/video/av27146255?from=search&seid=3761726523875051382 "该项目是一个原生项目，类似于市场上音乐播放软件，主要是给用户提供观看视频，搜索音乐功能，项目架构：原生JS + Less布局 + rem适配 + 自定义滚动条 + 移动端防抖动 + 即点即停绝对定位模拟固定定位，横向滑屏，橡皮筋效果，加速效果无缝滑屏运用防抖动逻辑，竖向滑屏实现即点即停") 
 * [硅谷直聘项目实战](https://www.bilibili.com/video/av27198246?from=search&seid=10516610192386877721)
 * [web前端开发--仿京东官网首页项目实战](https://v.youku.com/v_show/id_XMjk5MjU4OTMzNg==.html?spm=a2h0k.11417342.soresults.dposter)
