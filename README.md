@@ -15,7 +15,7 @@ Electron桌面开发神器|[Webstorm](https://github.com/stevenli91748/Frontend/
 
 # 高级框架
 
-[VUE.JS](https://github.com/stevenli91748/Frontend/blob/master/VueJS/README.md)|[React.js](https://github.com/stevenli91748/Frontend/blob/master/react/README.md)|Promise|Axios|[Mpvue核心技术](https://github.com/stevenli91748/Frontend/blob/master/Mpvue/README.md)|[Angular](https://github.com/stevenli91748/Frontend/blob/master/AngularJS/README.md)|[Zepto](https://github.com/stevenli91748/Frontend/blob/master/Zepto/README.md)|
+[VUE.JS](https://github.com/stevenli91748/Frontend/blob/master/VueJS/README.md)|[React.js](https://github.com/stevenli91748/Frontend/blob/master/react/README.md)|Promise|Axios|[Mpvue核心技术](https://github.com/stevenli91748/Frontend/blob/master/Mpvue/README.md)|[Angular2](https://github.com/stevenli91748/Frontend/blob/master/AngularJS/README.md)|[Zepto](https://github.com/stevenli91748/Frontend/blob/master/Zepto/README.md)|
 ---|---|---|---|---|---|---|
 
 [Thymeleaf](https://github.com/stevenli91748/Frontend/blob/master/Thymeleaf/Readme.md)|
