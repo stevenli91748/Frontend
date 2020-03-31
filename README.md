@@ -52,6 +52,9 @@ Electron桌面开发神器|[Webstorm](https://github.com/stevenli91748/Frontend/
 # 前端项目工程化
 
 
+
+
+
 # 前端视频
 * [电商网站前端架构](https://www.imooc.com/learn/186)
 * [ 前端工程师晋级之路 2020版前端技术白皮书--前端学习路径](https://www.youtube.com/watch?v=0QLHEOVnYtY)
@@ -65,7 +68,7 @@ Electron桌面开发神器|[Webstorm](https://github.com/stevenli91748/Frontend/
 * [尚硅谷Web前端全套教程（下）](https://www.bilibili.com/video/av73133656?from=search&seid=11244233218314266730)
 * [2018最新千锋教育UI设计从入门到精通](https://www.bilibili.com/video/av31637405?from=search&seid=6827222005976129424)
 * [2019千锋Web前端-企业面试题精讲+常见问题讲解](https://www.bilibili.com/video/av76016832?from=search&seid=66813526675563111)
-
+* [全屏切换效果](https://www.imooc.com/learn/374)
 
 # 有用的参考
  * [「微前端」- 将微服务理念扩展到前端开发（理论篇）](https://www.jianshu.com/p/92128d26b8ec)
