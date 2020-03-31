@@ -53,6 +53,7 @@ Electron桌面开发神器|[Webstorm](https://github.com/stevenli91748/Frontend/
 
 
 # 前端视频
+* [电商网站前端架构](https://www.imooc.com/learn/186)
 * [ 前端工程师晋级之路 2020版前端技术白皮书--前端学习路径](https://www.youtube.com/watch?v=0QLHEOVnYtY)
 * [web前端工程师 初级+中级+高级+资深+专家级（五部分完）](https://www.bilibili.com/video/av46236917/?spm_id_from=333.788.videocard.0)
 * [Vue2.0+Node.js+MongoDB全栈打造商城系统](https://www.bilibili.com/video/av88686971?from=search&seid=5739552451698653385)
