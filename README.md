@@ -2,6 +2,49 @@
 
 # [前端学习路径](https://github.com/stevenli91748/Frontend/blob/master/%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E8%B7%AF%E5%BE%84.md)
 
+---
+
+[ 前端工程师晋级之路 2020版前端技术白皮书](https://www.youtube.com/watch?v=0QLHEOVnYtY)
+
+| **第一部份 传统的前端 MPA(多页面) 架构** | [无代码] | 
+| :--- | :---: | 
+| 第一章  页面之前端基础||
+| 1-1 HTML5---定义网页骨架 | [无代码] |
+| 1-2 CSS3---装网页 | [无代码] |
+| 1-3 JAVASCRIPT---网页交互动作| [无代码] |
+| 1-3 WEB API(DOM)---js可用WEB API控制 HTML5 和 CSS3| [无代码] |
+| 第二章 页面之更快的开发网页| [无代码] |
+| jQuery| [无代码] |
+| Booststrap---响应式页面|  [无代码] |
+| Mobile APP---移动端页面开发是重中之重| [无代码] |
+| 第三章 服务器之服务器开发 | [无代码] |
+| Node.js---重中之重 | [无代码] |
+| 第四章 数据库 | [无代码] |||
+| MongoDB | [无代码] |
+| MySQL| [无代码] |
+| 第五章  把页面 服务器 数据库三者联系起来的前端框架 | [无代码] |
+|  Koa() | [无代码] |
+|  Express| [无代码] |
+| 第六章  项目打包工具 | [无代码] |
+| Webpack| [无代码] | 
+| **第一部份 现代的前端 SPA(单页面) 架构**| [无代码] |
+| Angular| [无代码] |
+| React| [无代码] |
+| Vue| [无代码] |
+| 微信开发| [无代码]  |
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 前端开发环境
 
 Electron桌面开发神器|[Webstorm](https://github.com/stevenli91748/Frontend/blob/master/Webstorm/README.md)|
