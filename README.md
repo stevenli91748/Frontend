@@ -25,13 +25,15 @@
 | 第五章  把页面 服务器 数据库三者联系起来的前端框架 | [无代码] |
 |  Koa() | [无代码] |
 |  Express| [无代码] |
-| 第六章  项目打包工具 | [无代码] |
-| Webpack| [无代码] | 
-| **第一部份 现代的前端 SPA(单页面) 架构**| [无代码] |
+| **第二部份 现代的前端 SPA(单页面) 架构**| [无代码] |
 | Angular| [无代码] |
 | React| [无代码] |
 | Vue| [无代码] |
 | 微信开发| [无代码]  |
+|**第三部份 前端工程化**||
+| 脚手架| [无代码] |
+| Webpack---项目打包工具 | [无代码] |
+| | [无代码] | 
 
 
 
@@ -117,6 +119,8 @@ Electron桌面开发神器|[Webstorm](https://github.com/stevenli91748/Frontend/
  * [MDN WEB DOCUMENT](https://developer.mozilla.org/zh-CN/)
 * [Web API 接口参考](https://developer.mozilla.org/zh-CN/docs/Web/API)
 * [Web API 事件参考](https://developer.mozilla.org/zh-CN/docs/Web/Events)
+* [必备脚手架/CI构建能力（上）](https://juejin.im/post/5e7a22a8e51d4526d87c99ed)
+* [必备脚手架/CI构建能力（下）](https://juejin.im/post/5e835ef6f265da47a7411b06)
  * [「微前端」- 将微服务理念扩展到前端开发（理论篇）](https://www.jianshu.com/p/92128d26b8ec)
  * [「微前端」- 将微服务理念扩展到前端开发（实践篇）](https://www.jianshu.com/p/1f409df7de45)
  * [京东2016版首页改版前端总结](https://aotu.io/notes/2016/12/26/jd-index-2016-summary/)
