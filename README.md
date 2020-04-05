@@ -12,7 +12,7 @@
 | 1-1 HTML5---定义网页骨架 | [无代码] |
 | 1-2 CSS3---装网页 | [无代码] |
 | 1-3 JAVASCRIPT---网页交互动作| [无代码] |
-| 1-3 WEB API(DOM)---js可用WEB API控制 HTML5 和 CSS3| [无代码] |
+| [1-3 WEB API(DOM)---js可用WEB API控制 HTML5 和 CSS3](https://www.bilibili.com/video/BV1NJ411x7sQ/?p=2)| [无代码] |
 | 第二章 页面之更快的开发网页| [无代码] |
 | jQuery| [无代码] |
 | Booststrap---响应式页面|  [无代码] |
@@ -101,6 +101,7 @@ Electron桌面开发神器|[Webstorm](https://github.com/stevenli91748/Frontend/
 
 
 # 前端视频
+* [WEB API编程---DOM](https://www.bilibili.com/video/BV1NJ411x7sQ/?p=2)
 * [电商网站前端架构](https://www.imooc.com/learn/186)
 * [ 前端工程师晋级之路 2020版前端技术白皮书--前端学习路径](https://www.youtube.com/watch?v=0QLHEOVnYtY)
 * [web前端工程师 初级+中级+高级+资深+专家级（五部分完）](https://www.bilibili.com/video/av46236917/?spm_id_from=333.788.videocard.0)
