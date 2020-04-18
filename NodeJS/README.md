@@ -1,5 +1,5 @@
-[重要 前后端分离架构，Node 中间层](https://www.crs811.com/archives/1542)|
----|
+[重要 前后端分离架构，Node 中间层](https://www.crs811.com/archives/1542)|[详解 CRP：如何最大化提升首屏渲染速度](https://juejin.im/post/5c33794bf265da6158775100)|
+---|---|
 
 # 视频
 
