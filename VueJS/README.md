@@ -1,5 +1,6 @@
 
-
+[【项目实践】使用Vue.js和ElementUI快速实现后台管理系统的界面布局](https://www.jianshu.com/p/9bf451f36088)|
+---|
 
 
 
@@ -12,3 +13,6 @@
  * [Vue项目实战《硅谷外卖》](https://www.bilibili.com/video/av27148092?from=search&seid=17221098319350707076 "基于Vue全家桶的在线外卖移动端 Web SPA, 实现了外卖应用的几大核心模块, 采用模块化、组件化、工程化的模式开发,项目架构: 前台: Vue全家桶 + ES6 + webpack 后台: Node + Express + MongoDB + Mongoose")
  * [尚硅谷前端：Vue.js+mpVue框架](https://www.bilibili.com/video/av67467785?from=search&seid=17221098319350707076)
 * [Node+TS+Koa+vue 商城全栈（前后端）开发](https://www.bilibili.com/video/BV1dJ411K7pJ/?spm_id_from=333.788.videocard.18)
+
+
+
