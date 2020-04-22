@@ -45,7 +45,7 @@
 |||
 |[Node+TS+Koa+vue 商城全栈（前后端）开发](https://www.bilibili.com/video/BV1dJ411K7pJ/?spm_id_from=333.788.videocard.18)||
 |[前端实时可视化开发工具体验](https://www.imooc.com/learn/718)||
-
+|[浏览器开发者工具使用技巧](https://www.imooc.com/learn/759)||
 
 
 
