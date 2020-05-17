@@ -59,8 +59,8 @@
 
 # 前端开发环境
 
-Electron桌面开发神器|[Webstorm](https://github.com/stevenli91748/Frontend/blob/master/Webstorm/README.md)|
----|---|
+Electron桌面开发神器|[Webstorm](https://github.com/stevenli91748/Frontend/blob/master/Webstorm/README.md)|[为什么单页面的seo不友好？如何解决这一问题](https://juejin.im/post/5d9848306fb9a04ddf2c341b)|
+---|---|---|
 
 
 # 前端基础
