@@ -111,8 +111,8 @@ Electron桌面开发神器|[Webstorm](https://github.com/stevenli91748/Frontend/
 
 
 # 前端技术点名词解析
-[浏览器同源政策及其规避方法](http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)|[跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)|
----|---|
+[浏览器同源政策及其规避方法](http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)|[跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)|[无头浏览器 Puppeteer 初探](https://juejin.im/post/59e5a86c51882578bf185dba)|[为什么单页面的seo不友好？如何解决这一问题？](https://juejin.im/post/5d9848306fb9a04ddf2c341b)|
+---|---|---|---|
 
 
 # 前端视频
