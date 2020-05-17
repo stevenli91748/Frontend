@@ -62,6 +62,8 @@
 Electron桌面开发神器|[Webstorm](https://github.com/stevenli91748/Frontend/blob/master/Webstorm/README.md)|[为什么单页面的seo不友好？如何解决这一问题](https://juejin.im/post/5d9848306fb9a04ddf2c341b)|
 ---|---|---|
 
+[服务端渲染（SSR)](https://juejin.im/post/5c068fd8f265da61524d2abc)|[服务端渲染(SSR)和预渲染(Prerendering)有什么区别？](https://www.zhihu.com/question/273930443)|[单页应用多路由预渲染指南](https://juejin.im/post/59d49d976fb9a00a571d651d)|
+---|---|---|
 
 # 前端基础
 
