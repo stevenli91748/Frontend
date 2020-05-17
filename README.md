@@ -117,6 +117,10 @@ Electron桌面开发神器|[Webstorm](https://github.com/stevenli91748/Frontend/
 ---|---|---|---|
 
 
+[单页应用多路由预渲染指南](https://juejin.im/post/59d49d976fb9a00a571d651d)|[服务端渲染（SSR)](https://juejin.im/post/5c068fd8f265da61524d2abc)|
+---|---|
+
+
 # 前端视频
 * [WEB API编程---DOM](https://www.bilibili.com/video/BV1NJ411x7sQ/?p=2)
 * [电商网站前端架构](https://www.imooc.com/learn/186)
