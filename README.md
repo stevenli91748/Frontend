@@ -110,6 +110,11 @@ Electron桌面开发神器|[Webstorm](https://github.com/stevenli91748/Frontend/
 
 
 
+# 前端技术点名词解析
+[浏览器同源政策及其规避方法](http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)|[跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)|
+---|---|
+
+
 # 前端视频
 * [WEB API编程---DOM](https://www.bilibili.com/video/BV1NJ411x7sQ/?p=2)
 * [电商网站前端架构](https://www.imooc.com/learn/186)
