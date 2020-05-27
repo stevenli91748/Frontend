@@ -19,7 +19,7 @@
 | 1-3 JAVASCRIPT---网页交互动作| [无代码] |
 | [WEB API(DOM)---js可用WEB API控制 HTML5 和 CSS3](https://www.bilibili.com/video/BV1NJ411x7sQ/?p=2)| [无代码] |
 | [初识HTML(5)+CSS(3)-2020升级版](https://www.imooc.com/learn/9)||
-| [SSI服务端包含技术---把不同的小页面合成一个大页面](https://www.secpulse.com/archives/66934.html)||
+| [SSI服务端包含技术---把不同的小页面合成一个大页面](https://www.cnblogs.com/ITGirl00/archive/2013/02/23/SSI.html)||
 | 第二章 页面之更快的开发网页| [无代码] |
 | [AJAX](https://github.com/stevenli91748/Frontend/blob/master/Ajax/README.md)|[无代码]|
 | jQuery| [无代码] |
