@@ -7,6 +7,9 @@
 [ 前端工程师晋级之路 2020版前端技术白皮书](https://www.youtube.com/watch?v=0QLHEOVnYtY)
 
 
+[精尽【前端】学习指南](http://svip.iocoder.cn/FrontEnd/tutorials/)|
+---|
+
 [了解前端项目设计过程](https://www.bilibili.com/video/BV1PJ411K7bP/?spm_id_from=333.788.videocard.5)|
 ---|
 
