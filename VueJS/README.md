@@ -1,4 +1,8 @@
 
+
+[精尽 Vue 学习指南](http://svip.iocoder.cn/Vue/tutorials/)|
+---|
+
 [【项目实践】使用Vue.js和ElementUI快速实现后台管理系统的界面布局](https://www.jianshu.com/p/9bf451f36088)|[VUE深入浅出系列(连载中)](https://www.kancloud.cn/hanxt/vuejs2/1472211)|
 ---|---|
 
