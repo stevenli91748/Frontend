@@ -1,5 +1,6 @@
 
-
+[精尽 Angular 学习指南](http://svip.iocoder.cn/Angular/tutorials/)|
+---|
 
 # 视频
 
