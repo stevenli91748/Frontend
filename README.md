@@ -13,7 +13,7 @@
 [了解前端项目设计过程](https://www.bilibili.com/video/BV1PJ411K7bP/?spm_id_from=333.788.videocard.5)|
 ---|
 
-[Awesome 3D ANIMATION Javascript Tutorial!](https://www.youtube.com/watch?v=XK7T3mY1V-w)|
+[Awesome 3D ANIMATION Javascript Tutorial!---用3D的方式呈现物体](https://www.youtube.com/watch?v=XK7T3mY1V-w)|
 ---|
 
 | **第一部份 传统的前端 MPA(多页面) 架构** | [无代码] | 
