@@ -10,8 +10,8 @@
 [精尽【前端】学习指南](http://svip.iocoder.cn/FrontEnd/tutorials/)|
 ---|
 
-[了解前端项目设计过程](https://www.bilibili.com/video/BV1PJ411K7bP/?spm_id_from=333.788.videocard.5)|
----|
+[了解前端项目设计过程](https://www.bilibili.com/video/BV1PJ411K7bP/?spm_id_from=333.788.videocard.5)|[Electron 开发指南：前端人的最佳跨平台解决方案 ](https://www.infoq.cn/article/fuR66Bs3gVrEvNYCf0tQ)|
+---|---|
 
 [Awesome 3D ANIMATION Javascript Tutorial!---用3D的方式呈现物体](https://www.youtube.com/watch?v=XK7T3mY1V-w)|
 ---|
