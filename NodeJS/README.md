@@ -14,7 +14,7 @@
 * [api设计第三版（node.js)](https://www.bilibili.com/video/av74605570?from=search&seid=5739552451698653385)
 * [撩课 Vue2.x+Node.js 拼多多商城项目实战\撩课 拼多多vue项目](https://www.bilibili.com/video/av78207763?from=search&seid=62145169076968126)
 # 有用的参考
-
+* [node.js教程](https://www.shuzhiduo.com/search/NodeJS/)
 * [使用Node.js制作爬虫教程](http://blog.didispace.com/nodejspachong/)
 * [使用Node.js制作爬虫教程（续：爬图）](http://blog.didispace.com/nodejspachong2/)
 * [Node 项目从构建到使用 Jenkins 与 Docker 实现自动化部署](http://dockone.io/article/9507)
