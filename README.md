@@ -145,7 +145,8 @@ Electron桌面开发神器|[Webstorm](https://github.com/stevenli91748/Frontend/
 * [全屏切换效果](https://www.imooc.com/learn/374)
 
 # 有用的参考
- * [MDN WEB DOCUMENT](https://developer.mozilla.org/zh-CN/)
+* [Angular、React与Vue，那个框架更好？](https://developer.51cto.com/art/202103/652791.htm)
+* [MDN WEB DOCUMENT](https://developer.mozilla.org/zh-CN/)
 * [Web API 接口参考](https://developer.mozilla.org/zh-CN/docs/Web/API)
 * [Web API 事件参考](https://developer.mozilla.org/zh-CN/docs/Web/Events)
 * [必备脚手架/CI构建能力（上）](https://juejin.im/post/5e7a22a8e51d4526d87c99ed)
