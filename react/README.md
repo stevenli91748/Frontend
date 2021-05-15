@@ -11,6 +11,8 @@
 [使用React、Node.js、MongoDB、Socket.IO开发一个角色投票应用---学习到如何使用Node.js构建一个REST API、使用MongoDB保存和检索数据、使用Socket.IO跟踪在线的访问者，以及使用React + Flux和服务端渲染来构建单页面应用，最后将应用部署到云端](https://www.kancloud.cn/kancloud/create-voting-app/63976)|
 ---|
 
+[React 测试入门教程](https://www.kancloud.cn/digest/react-testing-tutorial/217588)|
+---|
 
 
 # 视频
