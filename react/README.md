@@ -5,8 +5,8 @@
 
 # React 项目实战
 
-[React实战博客系统](https://www.kancloud.cn/ale541/react_/2105655)|
----|
+[React实战博客系统](https://www.kancloud.cn/ale541/react_/2105655)|[非常好的React教程---english](https://pomb.us/build-your-own-react/)|
+---|---|
 
 [使用React、Node.js、MongoDB、Socket.IO开发一个角色投票应用---学习到如何使用Node.js构建一个REST API、使用MongoDB保存和检索数据、使用Socket.IO跟踪在线的访问者，以及使用React + Flux和服务端渲染来构建单页面应用，最后将应用部署到云端](https://www.kancloud.cn/kancloud/create-voting-app/63976)|
 ---|
