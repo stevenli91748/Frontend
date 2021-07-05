@@ -2,6 +2,9 @@
 [精尽 Angular 学习指南](http://svip.iocoder.cn/Angular/tutorials/)|
 ---|
 
+[Element for Angular](https://github.com/ElemeFE/element-angular)|
+----|
+
 # Angular 例子程序
 * [AngularJS Hello World Example](http://websystique.com/angularjs/angularjs-hello-world-example/)
 * [AngularJS Modules Explained Example](http://websystique.com/angularjs/angularjs-modules-explained/)
