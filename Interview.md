@@ -4,6 +4,9 @@
 ---|---|
 
 
+[Mockjs,再也不用追着后端小伙伴要接口了](https://www.jianshu.com/p/dd23a6547114)|
+---|
+
 # 问题
 
 * [什么是跨域？怎么解决跨域问题](https://www.huaweicloud.com/articles/aac70d91034fc29ba92cde78f0b867f8.html)
