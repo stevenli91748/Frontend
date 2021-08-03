@@ -18,6 +18,10 @@
 [Awesome 3D ANIMATION Javascript Tutorial!---用3D的方式呈现物体](https://www.youtube.com/watch?v=XK7T3mY1V-w)|[开源推荐：国内3大主流前端UI表单设计器](https://www.toutiao.com/a6876715176851145227/?log_from=8446a508df6be_1627706760095)|
 ---|---|
 
+[导航流程：从输入URL到页面展示，这整个流程发生了什么](https://juejin.cn/post/6990187326747967519)|
+---|
+
+
 | **第一部份 传统的前端 MPA(多页面) 架构** | [无代码] | 
 | :--- | :---: | 
 | 第一章  页面之前端基础||
