@@ -21,6 +21,9 @@
 [导航流程：从输入URL到页面展示，这整个流程发生了什么](https://juejin.cn/post/6990187326747967519)|[前端通讯协议大比拼：WebSockets和HTTP](https://juejin.cn/post/6984991337841950757)|
 ---|---|
 
+[前端工程化指南](https://www.kancloud.cn/csnikey/fepro-guide)|
+---|
+
 
 | **第一部份 传统的前端 MPA(多页面) 架构** | [无代码] | 
 | :--- | :---: | 
