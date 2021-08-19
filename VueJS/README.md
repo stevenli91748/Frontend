@@ -1,7 +1,7 @@
 
 
-[精尽 Vue 学习指南](http://svip.iocoder.cn/Vue/tutorials/)|
----|
+[精尽 Vue 学习指南](http://svip.iocoder.cn/Vue/tutorials/)|[Vue从入门到实战](https://www.kancloud.cn/dataoedu/vue/347790)|
+---|---|
 
 [【项目实践】使用Vue.js和ElementUI快速实现后台管理系统的界面布局](https://www.jianshu.com/p/9bf451f36088)|[VUE深入浅出系列(连载中)](https://www.kancloud.cn/hanxt/vuejs2/1472211)|[Vue风格指南](https://cn.vuejs.org/v2/style-guide/#%E9%81%BF%E5%85%8D-v-if-%E5%92%8C-v-for-%E7%94%A8%E5%9C%A8%E4%B8%80%E8%B5%B7%E5%BF%85%E8%A6%81)|
 ---|---|---|
