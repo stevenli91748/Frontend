@@ -9,6 +9,10 @@
 [Element for Vue](https://element.eleme.cn/#/zh-CN)|[vue中使用axios调用后端接口](https://www.jianshu.com/p/269c5223a6f1)|[Vue + element项目搭建](https://www.kancloud.cn/iiplay/vue-element)|
 ---|---|---|
 
+[vue路由懒加载：import() 和 require()](https://www.cnblogs.com/chenxi188/p/13947891.html)|
+---|
+
+
 [互联网应用开发平台综合技术入门指南](https://www.kancloud.cn/fang2099/rayplatform/2109037)|
 ---|
 
