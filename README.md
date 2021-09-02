@@ -24,8 +24,8 @@
 
 # 前端工程化
 
-[Web前端工程化](https://www.kancloud.cn/chandler/web_technology/344206)|[前端工程化学习笔记](https://www.kancloud.cn/cyyspring/webpack/2287656)|
----|---|
+[Web前端工程化](https://www.kancloud.cn/chandler/web_technology/344206)|[前端工程化学习笔记](https://www.kancloud.cn/cyyspring/webpack/2287656)|[工程化](https://www.kancloud.cn/xiaobai2/wgt2/2229665)|
+---|---|---|
 
 [前端工程化指南](https://www.kancloud.cn/csnikey/fepro-guide)|[前端工程化从入门到进阶 付费](https://www.kancloud.cn/gzamon/feed/2100253)|
 ---|---|
