@@ -21,6 +21,12 @@
 [导航流程：从输入URL到页面展示，这整个流程发生了什么](https://juejin.cn/post/6990187326747967519)|[前端通讯协议大比拼：WebSockets和HTTP](https://juejin.cn/post/6984991337841950757)|
 ---|---|
 
+
+# 前端工程化
+
+[Web前端工程化](https://www.kancloud.cn/chandler/web_technology/344206)|[前端工程化学习笔记](https://www.kancloud.cn/cyyspring/webpack/2287656)|
+---|---|
+
 [前端工程化指南](https://www.kancloud.cn/csnikey/fepro-guide)|[前端工程化从入门到进阶 付费](https://www.kancloud.cn/gzamon/feed/2100253)|
 ---|---|
 
