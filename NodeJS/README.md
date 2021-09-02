@@ -1,6 +1,6 @@
 
-[nodejs项目实战](https://www.kancloud.cn/winter1981/weixinshake/595810)|[Node.js命令行程序开发完整教程](https://www.kancloud.cn/outsider/clitool/313173)|
----|---|
+[nodejs项目实战](https://www.kancloud.cn/winter1981/weixinshake/595810)|[Nodejs全端开发指南](https://www.kancloud.cn/zengqs1976/thinkjs-uniapp-framework/1834675)|[Node.js命令行程序开发完整教程](https://www.kancloud.cn/outsider/clitool/313173)|
+---|---|---|
 
 
 [重要 前后端分离架构，Node 中间层](https://www.crs811.com/archives/1542)|[详解 CRP：如何最大化提升首屏渲染速度](https://juejin.im/post/5c33794bf265da6158775100)|
