@@ -15,8 +15,8 @@
 [了解前端项目设计过程](https://www.bilibili.com/video/BV1PJ411K7bP/?spm_id_from=333.788.videocard.5)|[Electron 开发指南：前端人的最佳跨平台解决方案 ](https://www.infoq.cn/article/fuR66Bs3gVrEvNYCf0tQ)|
 ---|---|
 
-[Awesome 3D ANIMATION Javascript Tutorial!---用3D的方式呈现物体](https://www.youtube.com/watch?v=XK7T3mY1V-w)|[开源推荐：国内3大主流前端UI表单设计器](https://www.toutiao.com/a6876715176851145227/?log_from=8446a508df6be_1627706760095)|
----|---|
+[Awesome 3D ANIMATION Javascript Tutorial!---用3D的方式呈现物体](https://www.youtube.com/watch?v=XK7T3mY1V-w)|
+---|
 
 [导航流程：从输入URL到页面展示，这整个流程发生了什么](https://juejin.cn/post/6990187326747967519)|[前端通讯协议大比拼：WebSockets和HTTP](https://juejin.cn/post/6984991337841950757)|
 ---|---|
