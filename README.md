@@ -27,8 +27,8 @@
 [Web前端工程化](https://www.kancloud.cn/chandler/web_technology/344206)|[前端工程化学习笔记](https://www.kancloud.cn/cyyspring/webpack/2287656)|[工程化](https://www.kancloud.cn/xiaobai2/wgt2/2229665)|
 ---|---|---|
 
-[前端工程化指南](https://www.kancloud.cn/csnikey/fepro-guide)|[前端工程化从入门到进阶 付费](https://www.kancloud.cn/gzamon/feed/2100253)|
----|---|
+[前端工程化指南](https://www.kancloud.cn/csnikey/fepro-guide)|[前端工程化从入门到进阶 付费](https://www.kancloud.cn/gzamon/feed/2100253)|[前端工程化](https://github.com/gzpengli/blog)|
+---|---|---|
 
 
 # 前后端UI框架
@@ -189,6 +189,10 @@ Sass---主流的 CSS 预处理语言|pug--- HTML 模板的预处理语言|
 * [全屏切换效果](https://www.imooc.com/learn/374)
 
 # 有用的参考
+* [前端项目开发流程及技术选型](https://blog.csdn.net/hicoldcat/article/details/53995337)
+* [前端构建：3 类 13 种热门工具的选型参考](https://blog.csdn.net/vM199zkg3Y7150u5/article/details/84901166)
+* [前端项目开发流程](https://blog.csdn.net/xtaydwxf1988/article/details/75043753)
+* [个人开发web应用，从需求设计，界面设计，数据库设计，API设计等，好的开发流程是怎么样的？](https://www.zhihu.com/question/24976128)
 * [Angular、React与Vue，那个框架更好？](https://developer.51cto.com/art/202103/652791.htm)
 * [MDN WEB DOCUMENT](https://developer.mozilla.org/zh-CN/)
 * [Web API 接口参考](https://developer.mozilla.org/zh-CN/docs/Web/API)
