@@ -173,6 +173,7 @@ Sass---主流的 CSS 预处理语言|pug--- HTML 模板的预处理语言|
 
 
 # 前端视频
+
 * [WEB API编程---DOM](https://www.bilibili.com/video/BV1NJ411x7sQ/?p=2)
 * [电商网站前端架构](https://www.imooc.com/learn/186)
 * [ 前端工程师晋级之路 2020版前端技术白皮书--前端学习路径](https://www.youtube.com/watch?v=0QLHEOVnYtY)
@@ -189,6 +190,7 @@ Sass---主流的 CSS 预处理语言|pug--- HTML 模板的预处理语言|
 * [全屏切换效果](https://www.imooc.com/learn/374)
 
 # 有用的参考
+* [构建新的web开发环境](http://haoqiao.me/2016/09/11/build-new-web-environment.html)
 * [前端项目开发流程及技术选型](https://blog.csdn.net/hicoldcat/article/details/53995337)
 * [前端构建：3 类 13 种热门工具的选型参考](https://blog.csdn.net/vM199zkg3Y7150u5/article/details/84901166)
 * [前端项目开发流程](https://blog.csdn.net/xtaydwxf1988/article/details/75043753)
