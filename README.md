@@ -194,11 +194,13 @@ Sass---主流的 CSS 预处理语言|pug--- HTML 模板的预处理语言|
 
 # 有用的参考
 * [Cookie、Session、Token与JWT解析](https://www.jianshu.com/p/cab856c32222)
- * [Token 原理解读](https://www.jianshu.com/p/3b5e7293bf95)
- * [浅谈浏览器存储](https://www.jianshu.com/p/5fc3494e7142)
- * [跨域的定义,原因,以及解决办法](https://www.jianshu.com/p/25f50e1d8b2a)
- * [前端常见跨域解决方案（全）](https://www.jianshu.com/p/b7ca57096ff5)
- * [Cookie 的 SameSite 属性](https://www.ruanyifeng.com/blog/2019/09/cookie-samesite.html)
+* [JSON Web Token 入门教程](https://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html)
+* [Token 原理解读](https://www.jianshu.com/p/3b5e7293bf95)
+* [浅谈浏览器存储](https://www.jianshu.com/p/5fc3494e7142)
+* [跨域的定义,原因,以及解决办法](https://www.jianshu.com/p/25f50e1d8b2a)
+* [前端常见跨域解决方案（全）](https://www.jianshu.com/p/b7ca57096ff5)
+* [Cookie 的 SameSite 属性](https://www.ruanyifeng.com/blog/2019/09/cookie-samesite.html)
+* [异步 API 的设计](https://www.ruanyifeng.com/blog/2018/12/async-api-design.html)
 * [构建新的web开发环境](http://haoqiao.me/2016/09/11/build-new-web-environment.html)
 * [前端项目开发流程及技术选型](https://blog.csdn.net/hicoldcat/article/details/53995337)
 * [前端构建：3 类 13 种热门工具的选型参考](https://blog.csdn.net/vM199zkg3Y7150u5/article/details/84901166)
