@@ -33,6 +33,8 @@
 [使用React、Node.js、MongoDB、Socket.IO开发一个角色投票应用](https://www.kancloud.cn/kancloud/create-voting-app/63976)|
 ---|
 
+[React project 实战系列](https://www.sourcecodeexamples.net/search/label/React-Projects)|
+---|
 
 
 # 视频
