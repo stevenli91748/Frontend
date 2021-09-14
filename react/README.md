@@ -1,6 +1,6 @@
 
-[精尽 React 学习指南](http://svip.iocoder.cn/React/tutorials/)|[React 快速教程](https://www.w3schools.com/react/default.asp)|
----|---|
+[精尽 React 学习指南](http://svip.iocoder.cn/React/tutorials/)|[React 快速教程](https://www.w3schools.com/react/default.asp)|[ReactJS Tutorial](https://www.javaguides.net/p/reactjs-tutorial.html)|
+---|---|---|
 
 <a href="https://ibb.co/MpJbbsT"><img src="https://i.ibb.co/wC2TTRH/react-roadmap.png" alt="react-roadmap" border="0"></a>
 
