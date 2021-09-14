@@ -1,5 +1,7 @@
 
+# 英文的项目实战
 
+* [Free JavaScript Projects 系列](https://www.sourcecodeexamples.net/p/free-javascript-projects.html)
 
 # JavaScript 视频
  * [【千锋】2020版JavaScript基础入门教程全集（强烈推荐）](https://www.bilibili.com/video/av82478570?from=search&seid=10204331567303013188)
