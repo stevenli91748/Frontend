@@ -5,6 +5,11 @@
 [Element for Angular](https://github.com/ElemeFE/element-angular)|
 ----|
 
+# Angular 项目实战
+
+* [Free Open Source Angular Projects or Templates 系列](https://www.javaguides.net/2019/04/free-open-source-angular-projects-or-templates.html)
+
+
 # Angular 例子程序
 * [AngularJS Hello World Example](http://websystique.com/angularjs/angularjs-hello-world-example/)
 * [AngularJS Modules Explained Example](http://websystique.com/angularjs/angularjs-modules-explained/)
