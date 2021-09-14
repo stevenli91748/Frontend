@@ -12,6 +12,12 @@
 * [Spring Boot + Angular 8 + WebSocket Example Tutorial](https://www.javaguides.net/2019/06/spring-boot-angular-8-websocket-example-tutorial.html)
 * [Angular + Spring Boot CRUD Full Stack Application](https://www.youtube.com/playlist?list=PLGRDMO4rOGcNzi3CpBWsCdQSzbjdWWy-f)
 * [Angular + Spring Boot REST API Example Tutorial ](https://www.youtube.com/watch?v=_rMAnZIcRiU)
+* [Angular + Spring Boot + MySQL CRUD Example](https://www.javaguides.net/2020/07/spring-boot-angular-10-crud-example-tutorial.html)
+* [Spring Boot + Angular 10 CRUD Full Stack - Part #1 - Build CRUD Rest APIs with Spring Boot and MySQL](https://www.javaguides.net/2020/07/spring-boot-angular-10-crud-part-1-develop-springboot-crud-rest-apis.html)
+* [Spring Boot + Angular 10 CRUD Full Stack - Part #2 - Create Angular 10 App](https://www.javaguides.net/2020/07/spring-boot-angular-10-crud-part-2-create-angular-10-app.html)
+* [Spring Boot + Angular 10 CRUD Full Stack - Part #3 - Develop Angular 8 CRUD Operations](https://www.javaguides.net/2020/07/spring-boot-angular-10-crud-part-3-develop-angular-10-crud-operations.html)
+* [Spring Boot + Angular 10 CRUD Full Stack - Part #4 - Angular 10 App Configuration](https://www.javaguides.net/2020/07/spring-boot-angular-10-crud-part-4-angular-10-crud-app-configuration.html)
+* [Spring Boot + Angular 10 CRUD Full Stack - Part #5 - Running Angular 10 CRUD App](https://www.javaguides.net/2020/07/spring-boot-angular-10-crud-part-5-running-angular-10-crud-app.html)
 * []()
 
 # Angular 例子程序
