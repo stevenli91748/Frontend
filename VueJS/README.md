@@ -24,10 +24,11 @@
 ---|
 
 
-# 例子程序
+# 项目实战
 
 * [Vue JS + Spring Boot + MySQL Example](https://www.javaguides.net/2021/08/vue-js-spring-boot-mysql-example.html)
 * [Vue JS + Spring Boot + PostgreSQL Example](https://www.javaguides.net/2021/08/vue-js-spring-boot-postgresql-example.html)
+* [Vue JS + Spring Boot REST API Tutorial](https://www.javaguides.net/2021/07/vue-js-spring-boot-rest-api-tutorial.html)
 * [Integrate Meteor and Vue](https://www.meteor.com/tutorials/vue/creating-an-app)
 
 # 视频
