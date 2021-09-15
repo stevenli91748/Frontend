@@ -18,7 +18,9 @@
 * [Spring Boot + Angular 10 CRUD Full Stack - Part #3 - Develop Angular 8 CRUD Operations](https://www.javaguides.net/2020/07/spring-boot-angular-10-crud-part-3-develop-angular-10-crud-operations.html)
 * [Spring Boot + Angular 10 CRUD Full Stack - Part #4 - Angular 10 App Configuration](https://www.javaguides.net/2020/07/spring-boot-angular-10-crud-part-4-angular-10-crud-app-configuration.html)
 * [Spring Boot + Angular 10 CRUD Full Stack - Part #5 - Running Angular 10 CRUD App](https://www.javaguides.net/2020/07/spring-boot-angular-10-crud-part-5-running-angular-10-crud-app.html)
-* []()
+* [Spring Boot + Angular + MongoDB CRUD Example](https://www.javaguides.net/2021/08/spring-boot-angular-mongodb-crud-example.html)
+* [Angular Spring Boot Login and Logout Example](https://www.javaguides.net/2021/08/angular-spring-boot-login-and-logout.html)
+
 
 # Angular 例子程序
 * [AngularJS Hello World Example](http://websystique.com/angularjs/angularjs-hello-world-example/)
