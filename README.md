@@ -87,6 +87,7 @@
 | React| [无代码] |
 | Vue| [无代码] |
 | [Thymeleaf](http://c.biancheng.net/spring_boot/thymeleaf.html) ||
+|   [thymeleaf的能用在什么地方_springboot中Thymeleaf的使用](https://blog.csdn.net/weixin_39999859/article/details/111731341)||
 | 微信开发| [无代码]  |
 |**第三部份 前端工程化**||
 | 脚手架| [无代码] |
