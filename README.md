@@ -86,6 +86,7 @@
 | Angular| [无代码] |
 | React| [无代码] |
 | Vue| [无代码] |
+| [Thymeleaf](http://c.biancheng.net/spring_boot/thymeleaf.html) ||
 | 微信开发| [无代码]  |
 |**第三部份 前端工程化**||
 | 脚手架| [无代码] |
