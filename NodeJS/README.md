@@ -1,4 +1,18 @@
 
+
+# 在线书籍
+
+* [RESTful Web API Design with Node.js (Second Edition)](https://weread.qq.com/web/reader/e18328807230082ee18b465)
+* [Node.js Design Patterns (Second Edition)](https://weread.qq.com/web/reader/85c323d07230078385c04a5)
+* [Deploying Nodes.js](https://weread.qq.com/web/reader/7e232b1072300cf17e20628)
+* [Node.js 全程实例](https://weread.qq.com/web/reader/d45320c071a4952bd4500a5)
+* [Vue.js + Node.js 全栈开发实战](https://weread.qq.com/web/reader/16932930723279061699c7e)
+* [React + Node.js 开发实战： 从入门到项目上线](https://weread.qq.com/web/reader/29b322f07224e31b29b76fc)
+* [Node.js + Webpack开发实战](https://weread.qq.com/web/reader/7fd32de0723278b37fd69c3)
+* [Koa 与 Node.js 开发实战](https://weread.qq.com/web/reader/b68323207184869ab687b03)
+* [Node.js + Express + Vue.js 项目开发实战](https://weread.qq.com/web/reader/6af326a071de88a96aff6ad)
+---
+
 [Nodejs 快速教程](https://www.yht7.com/nodejs/nodejs-tutorial.html)|
 ---|
 
