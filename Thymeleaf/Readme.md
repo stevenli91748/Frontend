@@ -7,7 +7,7 @@
 * [Thymeleaf教程（10分钟入门）](http://c.biancheng.net/spring_boot/thymeleaf.html)
 * [Spring Boot整合Thymeleaf](http://c.biancheng.net/spring_boot/thymeleaf-import.html)
 * [Thymeleaf教程](https://www.yiibai.com/thymeleaf)
-
+* [Spring Boot Hello World(Thymeleaf)示例](https://www.yiibai.com/spring-boot/hello-world-example-thymeleaf.html)
 
 
 # 视频
