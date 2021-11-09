@@ -41,4 +41,12 @@
 * [Node+TS+Koa+vue 商城全栈（前后端）开发](https://www.bilibili.com/video/BV1dJ411K7pJ/?spm_id_from=333.788.videocard.18)
 
 
+# 参考
+
+Vue.js官网：https://cn.vuejs.org/
+Vue.js教程：http://www.runoob.com/vue2/vue-tutorial.html
+Vue-router教程：https://router.vuejs.org/zh/
+Vuex教程：https://vuex.vuejs.org/zh/guide/
+Element教程: http://element-cn.eleme.io/#/zh-CN
+
 
