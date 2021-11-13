@@ -1,3 +1,6 @@
+[**Thymeleaf更强大的功能是提供了一个统一风格的模板设计，即整个网站可以使用统一风格的框架结构**](https://weread.qq.com/web/reader/ca932ea071d7c798ca9a714kea532350240ea5d2f1c4357)
+
+
 # 在线书籍
 
 * [ Spring boot 2 + Thymeleaf企业应用实战](https://weread.qq.com/web/reader/855325a07184876485505ad)
