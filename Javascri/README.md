@@ -3,6 +3,9 @@
 
 <a href="https://ibb.co/m8fqWJt"><img src="https://i.ibb.co/nCxcJrf/javascript.png" alt="javascript" border="0"></a>
 
+# 在线书籍
+
+* [你不知道的javascript (好)](https://weread.qq.com/web/reader/8c632230715c01a18c683d8)
 
 # 英文的项目实战
 
