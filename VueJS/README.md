@@ -24,6 +24,11 @@
 ---|
 
 
+# VUE3
+
+* [VUE3](https://gitee.com/youlaiorg/vue3-element-admin#%E6%8A%80%E6%9C%AF%E6%A0%88%E5%AE%98%E7%BD%91)
+* [Vue3 快速教程](https://www.yht7.com/vue2/vue-tutorial.html)
+
 # 项目实战
 
 * [Vue JS + Spring Boot + MySQL Example](https://www.javaguides.net/2021/08/vue-js-spring-boot-mysql-example.html)
