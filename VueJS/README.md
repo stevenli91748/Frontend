@@ -26,7 +26,7 @@
 
 # VUE3
 
-* [VUE3](https://gitee.com/youlaiorg/vue3-element-admin#%E6%8A%80%E6%9C%AF%E6%A0%88%E5%AE%98%E7%BD%91)
+* [Vue3 + TypeScript + Vite2 + Element-Plus 脚手架，基于 vue-element-admin 改造升级](https://gitee.com/youlaiorg/vue3-element-admin#%E6%8A%80%E6%9C%AF%E6%A0%88%E5%AE%98%E7%BD%91)
 * [Vue3 快速教程](https://www.yht7.com/vue2/vue-tutorial.html)
 
 # 项目实战
