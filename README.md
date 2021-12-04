@@ -29,6 +29,9 @@
 
 # 前端工程化
 
+[超详细的前端工程化入门教程](https://chinese.freecodecamp.org/news/front-end-engineering-tutorial/)|
+---|
+
 [Web前端工程化](https://www.kancloud.cn/chandler/web_technology/344206)|[前端工程化学习笔记](https://www.kancloud.cn/cyyspring/webpack/2287656)|[工程化](https://www.kancloud.cn/xiaobai2/wgt2/2229665)|
 ---|---|---|
 
