@@ -1,7 +1,7 @@
 
 
 # 在线书籍
-
+* [深入浅出Node.js--朴灵](https://weread.qq.com/web/reader/d1b32290718ff65fd1befcc)
 * [RESTful Web API Design with Node.js (Second Edition)](https://weread.qq.com/web/reader/e18328807230082ee18b465)
 * [Node.js Design Patterns (Second Edition)](https://weread.qq.com/web/reader/85c323d07230078385c04a5)
 * [Deploying Nodes.js](https://weread.qq.com/web/reader/7e232b1072300cf17e20628)
