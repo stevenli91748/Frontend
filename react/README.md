@@ -1,11 +1,22 @@
 
-[精尽 React 学习指南](http://svip.iocoder.cn/React/tutorials/)|[React 快速教程](https://www.w3schools.com/react/default.asp)|[ReactJS Tutorial](https://www.javaguides.net/p/reactjs-tutorial.html)|
----|---|---|
 
 <a href="https://ibb.co/MpJbbsT"><img src="https://i.ibb.co/wC2TTRH/react-roadmap.png" alt="react-roadmap" border="0"></a>
 
 # learn path
 <a href="https://ibb.co/jDhSbGH"><img src="https://i.ibb.co/3c1n4Wk/react.png" alt="react" border="0"></a>
+
+
+# 在线书籍
+
+* [深入浅出RxJS-- 非常不错的书](https://weread.qq.com/web/reader/cfd321e05e4002cfd1a1ec2)
+
+
+---
+
+[精尽 React 学习指南](http://svip.iocoder.cn/React/tutorials/)|[React 快速教程](https://www.w3schools.com/react/default.asp)|[ReactJS Tutorial](https://www.javaguides.net/p/reactjs-tutorial.html)|
+---|---|---|
+
+
 
 # React 教程
 
