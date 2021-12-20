@@ -4,10 +4,10 @@
 <a href="https://ibb.co/R6YFQsj"><img src="https://i.ibb.co/FYmr8yH/angule.png" alt="angule" border="0"></a>
 
 
+# 博客
 
-
-[精尽 Angular 学习指南](http://svip.iocoder.cn/Angular/tutorials/)|
----|
+[精尽 Angular 学习指南](http://svip.iocoder.cn/Angular/tutorials/)|[Angularjs进阶](https://www.kancloud.cn/digest/angularjs-sunny1989)|
+---|---|
 
 [Element for Angular](https://github.com/ElemeFE/element-angular)|
 ----|
