@@ -25,10 +25,12 @@
 [nodejs stream 手册](https://www.kancloud.cn/kancloud/stream-handbook/81769)|[node与electron](https://www.kancloud.cn/chandler/nodejs/1172691)|[node js](https://www.kancloud.cn/pimingzhao/node_js/1523594)|
 ---|---|---|
 
-
-
 [重要 前后端分离架构，Node 中间层](https://www.crs811.com/archives/1542)|[详解 CRP：如何最大化提升首屏渲染速度](https://juejin.im/post/5c33794bf265da6158775100)|
 ---|---|
+
+# 例子
+* [建立一个Node.js项目](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck8e232ec02198e296a067180)
+
 
 # 视频
 
