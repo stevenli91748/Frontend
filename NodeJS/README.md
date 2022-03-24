@@ -30,7 +30,7 @@
 
 # 例子
 * [建立一个Node.js项目](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck8e232ec02198e296a067180)
-
+* [建立一个TypeScript项目](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck341323f021e34173cb3824c)
 
 # 视频
 
