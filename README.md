@@ -1,6 +1,6 @@
 # [前端面试](https://github.com/stevenli91748/Frontend/blob/master/Interview.md)
 
-
+**目前有两种类型的Web应用程序：在服务器上运行的Web应用程序和在客户端上运行的Web应用程序（SPA)**
 
 <a href="https://ibb.co/P4JympB"><img src="https://i.ibb.co/WF7Xx9S/frontend-roadmap.png" alt="frontend-roadmap" border="0"></a>
 
