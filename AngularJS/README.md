@@ -3,6 +3,12 @@
 
 <a href="https://ibb.co/R6YFQsj"><img src="https://i.ibb.co/FYmr8yH/angule.png" alt="angule" border="0"></a>
 
+# 在线书籍
+* [Angular开发入门与实战 2021](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8c)
+
+
+
+
 
 # 博客
 
