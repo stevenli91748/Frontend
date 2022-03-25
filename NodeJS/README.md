@@ -38,8 +38,16 @@
 * 基础
   * [ Node.js和npm基础](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck98f3284021498f137082c2e) 
   * [TypeScript基础知识](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck33e3289021c33e75ff09694)
-  * 
-
+  * [快速开启Angular项目](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka1d32a6022aa1d0c6e83eb4)
+  * [Angular组件详解](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc0c320a0232c0c7c76d365a)
+  * [Angular模板](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck09332a2023b093f65e0888c)
+  * [Angular模块](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck7cb321502467cbbc409e62d)
+* 应用
+  * [Angular路由功能](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck28d32de024d28dd2c795c7f) 
+  * [Angular服务和依赖注入](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck93d32d9025693db85ed9e60)
+  * [ Angular表单](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc9e32940268c9e1074f5bc6)
+  * [Angular管道](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck76d325c028076dc611d6d8c)
+  * []()
 # 视频
 
 * [Full MERN Website React Nodejs ](https://www.youtube.com/watch?v=4ELH8CT4J0A)
