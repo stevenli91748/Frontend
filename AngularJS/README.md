@@ -6,10 +6,6 @@
 # 在线书籍
 * [Angular开发入门与实战 2021](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8c)
 
-
-
-
-
 # 博客
 
 [精尽 Angular 学习指南](http://svip.iocoder.cn/Angular/tutorials/)|[Angularjs进阶](https://www.kancloud.cn/digest/angularjs-sunny1989)|
@@ -17,6 +13,12 @@
 
 [Element for Angular](https://github.com/ElemeFE/element-angular)|
 ----|
+
+
+# 目录
+
+* [ Angular项目的启动过程](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck64232b60230642e92efb54c)
+
 
 # Angular 项目实战
 * [Angular 10 Tutorial](https://www.javaguides.net/p/angular-10-tutorial.html)
