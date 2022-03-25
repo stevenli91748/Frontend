@@ -25,11 +25,12 @@
     * [Angular组件设计就是采用的MVVM模式](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc7432af0210c74d97b01b1c) 
       * [MVVM模式的优点](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc7432af0210c74d97b01b1c) 
       * M（Model）：模型---双向绑定技术：当Model变化时，ViewModel会自动更新，View也会自动变化
+        * Model是Component类中的数据
       * V（View）：视图，它专注于界面的显示和渲染，Angular中的View就是组件模板---低耦合：各层职责分开，可以各干各的事情，如View可以独立于Model变化和修改
-        * [Angular中的组件模板就是MVVM模式中的V，它扮演的是一个视图的角色，简单来说就是展示给用户看的部分](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck9a132c802349a1158154a83)
+        * [Component中的组件模板就是MVVM模式中的V，它扮演的是一个视图的角色，简单来说就是展示给用户看的部分](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck9a132c802349a1158154a83)
           * [组件模板的样式](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckd8232f00235d82c8d161fb2) 
       * VM（ViewModel）：视图模型，ViewModel是用来连接View和Model的桥梁，View Model将Model中的数据提供给View用于展示，同时将View中用户更改的数据同步到Model中 ---1 可重用性：View的计算逻辑放在ViewModel里，让很多View可以重用这段计算逻辑, 2 独立开发：开发者可以专注于业务逻辑和数据的开发（ViewModel），设计人员可以专注于界面的设计, 3 测试方便：可以针对ViewModel来对界面进行测试。
-        * [Angular中的组件类就是MVVM模式中的VM（ViewModel，视图模型），ViewModel是View和Model的结合体，负责View和Model的交互和协作。组件类的作用是控制模板渲染](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka6832360236a684eceeee20) 
+        * [Angular中的组件类就是MVVM模式中的VM（ViewModel，视图模型），ViewModel是View和Model的结合体，负责View和Model的交互和协作。组件类的作用是控制模板渲染,ViewModel是Component类中的代码](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka6832360236a684eceeee20) 
 # Angular 项目实战
 * [Angular 10 Tutorial](https://www.javaguides.net/p/angular-10-tutorial.html)
 * [Free Open Source Angular Projects or Templates 系列](https://www.javaguides.net/2019/04/free-open-source-angular-projects-or-templates.html)
