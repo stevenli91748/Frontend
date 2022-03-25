@@ -16,9 +16,12 @@
 
 
 # 目录
-
-* [ Angular项目的启动过程](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck64232b60230642e92efb54c)
-
+* 基础
+  * [Node.js和npm基础 ](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck98f3284021498f137082c2e)
+  * [TypeScript基础知识](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck33e3289021c33e75ff09694)
+* Angular
+  * [Angular项目的启动过程](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck64232b60230642e92efb54c)
+  * [Angular组件详解](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc0c320a0232c0c7c76d365a)
 
 # Angular 项目实战
 * [Angular 10 Tutorial](https://www.javaguides.net/p/angular-10-tutorial.html)
