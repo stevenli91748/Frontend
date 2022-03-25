@@ -32,6 +32,14 @@
 * [建立一个Node.js项目](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck8e232ec02198e296a067180)
 * [建立一个TypeScript项目](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck341323f021e34173cb3824c)
 
+
+# 目录
+
+* 基础
+  * [ Node.js和npm基础](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck98f3284021498f137082c2e) 
+  * [TypeScript基础知识](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck33e3289021c33e75ff09694)
+  * 
+
 # 视频
 
 * [Full MERN Website React Nodejs ](https://www.youtube.com/watch?v=4ELH8CT4J0A)
