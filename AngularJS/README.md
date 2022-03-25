@@ -19,10 +19,14 @@
 * 基础
   * [Node.js和npm基础 ](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck98f3284021498f137082c2e)
   * [TypeScript基础知识](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck33e3289021c33e75ff09694)
-* Angular
+* Angular---Angular的架构采用MVVM模式设计
   * [Angular项目的启动过程](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck64232b60230642e92efb54c)
   * [Angular组件详解](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc0c320a0232c0c7c76d365a)
-
+    * [Angular组件设计就是采用的MVVM模式](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc7432af0210c74d97b01b1c) 
+      * [MVVM模式的优点](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc7432af0210c74d97b01b1c) 
+      * M（Model）：模型---双向绑定技术：当Model变化时，ViewModel会自动更新，View也会自动变化
+      * V（View）：视图，它专注于界面的显示和渲染，Angular中的View就是组件模板---低耦合：各层职责分开，可以各干各的事情，如View可以独立于Model变化和修改
+      * VM（ViewModel）：视图模型，ViewModel是用来连接View和Model的桥梁，View Model将Model中的数据提供给View用于展示，同时将View中用户更改的数据同步到Model中 ---1 可重用性：View的计算逻辑放在ViewModel里，让很多View可以重用这段计算逻辑, 2 独立开发：开发者可以专注于业务逻辑和数据的开发（ViewModel），设计人员可以专注于界面的设计, 3 测试方便：可以针对ViewModel来对界面进行测试。
 # Angular 项目实战
 * [Angular 10 Tutorial](https://www.javaguides.net/p/angular-10-tutorial.html)
 * [Free Open Source Angular Projects or Templates 系列](https://www.javaguides.net/2019/04/free-open-source-angular-projects-or-templates.html)
