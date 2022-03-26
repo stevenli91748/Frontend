@@ -21,55 +21,58 @@
   * [TypeScript基础知识](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck33e3289021c33e75ff09694)
 * Angular---Angular的架构采用MVVM模式设计
   * [Angular项目的启动过程](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck64232b60230642e92efb54c)
-  * [Angular组件详解](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc0c320a0232c0c7c76d365a)
-    * [Angular组件设计就是采用的MVVM模式](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc7432af0210c74d97b01b1c) 
-      * [MVVM模式的优点](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc7432af0210c74d97b01b1c) 
-      * M（Model）：模型---双向绑定技术：当Model变化时，ViewModel会自动更新，View也会自动变化
-        * Model是Component类中的数据
-      * V（View）：视图，它专注于界面的显示和渲染，Angular中的View就是组件模板---低耦合：各层职责分开，可以各干各的事情，如View可以独立于Model变化和修改
-        * [Component中的组件模板就是MVVM模式中的V，它扮演的是一个视图的角色，简单来说就是展示给用户看的部分](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck9a132c802349a1158154a83)
-          * [组件模板的样式](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckd8232f00235d82c8d161fb2) 
+  * Angular对象
+    * [Angular组件详解](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc0c320a0232c0c7c76d365a)
+      * [Angular组件设计就是采用的MVVM模式](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc7432af0210c74d97b01b1c) 
+        * [MVVM模式的优点](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc7432af0210c74d97b01b1c) 
+        * M（Model）：模型---双向绑定技术：当Model变化时，ViewModel会自动更新，View也会自动变化
+          * Model是Component类中的数据
+        * V（View）：视图，它专注于界面的显示和渲染，Angular中的View就是组件模板---低耦合：各层职责分开，可以各干各的事情，如View可以独立于Model变化和修改
+          * [Component中的组件模板就是MVVM模式中的V，它扮演的是一个视图的角色，简单来说就是展示给用户看的部分](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck9a132c802349a1158154a83)
+            * [组件模板的样式](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckd8232f00235d82c8d161fb2) 
+            * [Angular模板语言](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck0723244023c072b030ba601)
+              * 插值
+              * Angular模板表达式
+              * 模板语句
+              * 数据绑定 
+        * VM（ViewModel）：视图模型，ViewModel是用来连接View和Model的桥梁，View Model将Model中的数据提供给View用于展示，同时将View中用户更改的数据同步到Model中 ---1 可重用性：View的计算逻辑放在ViewModel里，让很多View可以重用这段计算逻辑, 2 独立开发：开发者可以专注于业务逻辑和数据的开发（ViewModel），设计人员可以专注于界面的设计, 3 测试方便：可以针对ViewModel来对界面进行测试。
+          * [Angular中的组件类就是MVVM模式中的VM（ViewModel，视图模型），ViewModel是View和Model的结合体，负责View和Model的交互和协作。组件类的作用是控制模板渲染,ViewModel是Component类中的代码](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka6832360236a684eceeee20) 
+      * [组件类与模板的数据绑定方式](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckb5332110237b53b3a3d68d2) 
+        * 单向数据绑定
           * [Angular模板语言](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck0723244023c072b030ba601)
             * 插值
             * Angular模板表达式
             * 模板语句
             * 数据绑定 
-      * VM（ViewModel）：视图模型，ViewModel是用来连接View和Model的桥梁，View Model将Model中的数据提供给View用于展示，同时将View中用户更改的数据同步到Model中 ---1 可重用性：View的计算逻辑放在ViewModel里，让很多View可以重用这段计算逻辑, 2 独立开发：开发者可以专注于业务逻辑和数据的开发（ViewModel），设计人员可以专注于界面的设计, 3 测试方便：可以针对ViewModel来对界面进行测试。
-        * [Angular中的组件类就是MVVM模式中的VM（ViewModel，视图模型），ViewModel是View和Model的结合体，负责View和Model的交互和协作。组件类的作用是控制模板渲染,ViewModel是Component类中的代码](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka6832360236a684eceeee20) 
-    * [组件类与模板的数据绑定方式](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckb5332110237b53b3a3d68d2) 
-      * 单向数据绑定
-        * [Angular模板语言](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck0723244023c072b030ba601)
-          * 插值
-          * Angular模板表达式
-          * 模板语句
-          * 数据绑定 
-        * 使用插值显示属性的值---数据绑定方向是从组件类到视图, 在模板视图中显示组件类的属性，最简单的方式就是通过插值绑定属性名。插值的语法就是把属性名写在双花括号里，如{{message}}
-        * 属性绑定方式---数据绑定方向是从组件类到视图
-          * DOM属性绑定
-          * HTML特性绑定
+          * 使用插值显示属性的值---数据绑定方向是从组件类到视图, 在模板视图中显示组件类的属性，最简单的方式就是通过插值绑定属性名。插值的语法就是把属性名写在双花括号里，如{{message}}
+          * 属性绑定方式---数据绑定方向是从组件类到视图
+            * DOM属性绑定
             * HTML特性绑定
-            * Class样式绑定
-            * Style样式绑定  
-        * 事件绑定---数据绑定方向是从视图到组件类  
-      * 双向数据绑定---双向数据绑定为Web应用程序提供了一种在组件类及其模板之间共享数据的方式
-    * [组件的交互](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck72b327f023972b32a1f7e2d)
-      * 装饰器
-        * @Component()装饰器
-        * @Output()装饰器
-        * @Input()装饰器
-        * [@ViewChild()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck44f328c023e44f683a8420b)
-        * [@ViewChildren()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck44f328c023e44f683a8420b)
-        * [@ContentChildren()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck73532580243735b90b45ac8)
+              * HTML特性绑定
+              * Class样式绑定
+              * Style样式绑定  
+          * 事件绑定---数据绑定方向是从视图到组件类  
+        * 双向数据绑定---双向数据绑定为Web应用程序提供了一种在组件类及其模板之间共享数据的方式
+      * [组件的交互](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck72b327f023972b32a1f7e2d)
+        * 装饰器
+          * @Component()装饰器
+          * @Output()装饰器
+          * @Input()装饰器
+          * [@ViewChild()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck44f328c023e44f683a8420b)
+          * [@ViewChildren()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck44f328c023e44f683a8420b)
+          * [@ContentChildren()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck73532580243735b90b45ac8)
+          * [@ContentChild()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck73532580243735b90b45ac8)
+
     * [Angular指令应用](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckfc432fb0241fc490ca45614)---指令是DOM元素上的标记（如属性），它告诉Angular要将指定的行为附加到现有DOM元素。指令的核心是一个函数，只要Angular编译器在DOM元素中找到指令，该指令就执行。指令通过赋予HTML新语法来扩展其功能
-      * [结构型指令---这些指令可以通过添加和删除视图DOM元素来更改DOM布局](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck32932b102423295c76ac7d9)
-        * NgIf
-        * NgFor
-        * NgSwitch
-        * ng-container分组元素
-      * [属性型指令---只是改变一个DOM元素的外观或行为](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck73532580243735b90b45ac8)
-        * NgClass
-        * NgStyle
-        * NgContent 
+        * [结构型指令---这些指令可以通过添加和删除视图DOM元素来更改DOM布局](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck32932b102423295c76ac7d9)
+          * NgIf
+          * NgFor
+          * NgSwitch
+          * ng-container分组元素
+        * [属性型指令---只是改变一个DOM元素的外观或行为](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck73532580243735b90b45ac8)
+          * NgClass
+          * NgStyle
+          * NgContent 
 
 # Angular 项目实战
 * [Angular 10 Tutorial](https://www.javaguides.net/p/angular-10-tutorial.html)
