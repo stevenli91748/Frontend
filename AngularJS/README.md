@@ -78,6 +78,7 @@
           * NgStyle
           * NgContent 
         * [在指令中监听事件](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)
+   * 3 Angular模块
 # Angular 项目实战
 * [Angular 10 Tutorial](https://www.javaguides.net/p/angular-10-tutorial.html)
 * [Free Open Source Angular Projects or Templates 系列](https://www.javaguides.net/2019/04/free-open-source-angular-projects-or-templates.html)
