@@ -59,6 +59,7 @@
         * @Input()装饰器
         * [@ViewChild()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck44f328c023e44f683a8420b)
         * [@ViewChildren()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck44f328c023e44f683a8420b)
+        * [@ContentChildren()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck73532580243735b90b45ac8)
     * [Angular指令应用](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckfc432fb0241fc490ca45614)---指令是DOM元素上的标记（如属性），它告诉Angular要将指定的行为附加到现有DOM元素。指令的核心是一个函数，只要Angular编译器在DOM元素中找到指令，该指令就执行。指令通过赋予HTML新语法来扩展其功能
       * [结构型指令---这些指令可以通过添加和删除视图DOM元素来更改DOM布局](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck32932b102423295c76ac7d9)
         * NgIf
