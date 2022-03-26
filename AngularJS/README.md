@@ -22,7 +22,7 @@
 * Angular---Angular的架构采用MVVM模式设计
   * [Angular项目的启动过程](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck64232b60230642e92efb54c)
   * 1 Angular对象
-    * [Angular组件详解](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc0c320a0232c0c7c76d365a)
+    * [1.1 Angular组件对象](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc0c320a0232c0c7c76d365a)
       * [Angular组件设计就是采用的MVVM模式](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc7432af0210c74d97b01b1c) 
         * [MVVM模式的优点](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc7432af0210c74d97b01b1c) 
         * M（Model）：模型---双向绑定技术：当Model变化时，ViewModel会自动更新，View也会自动变化
@@ -62,8 +62,10 @@
           * [@ViewChildren()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck44f328c023e44f683a8420b)
           * [@ContentChildren()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck73532580243735b90b45ac8)
           * [@ContentChild()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck73532580243735b90b45ac8)
-
-   * [2 Angular指令应用](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckfc432fb0241fc490ca45614)---指令是DOM元素上的标记（如属性），它告诉Angular要将指定的行为附加到现有DOM元素。指令的核心是一个函数，只要Angular编译器在DOM元素中找到指令，该指令就执行。指令通过赋予HTML新语法来扩展其功能
+          * [@Directive()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9) 
+    * [1.2 ElementRef对象](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)---ElementRef对象：可以通过ElementRef对象的nativeElement属性直接访问应用该指令的DOM元素
+    * [1.3 Renderer2对象](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)---Renderer2对象：Renderer2对象可实现自定义渲染器，它提供了许多辅助方法，如可以通过该对象修改DOM元素的样式。
+   * [2 Angular指令](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckfc432fb0241fc490ca45614)---指令是DOM元素上的标记（如属性），它告诉Angular要将指定的行为附加到现有DOM元素。指令的核心是一个函数，只要Angular编译器在DOM元素中找到指令，该指令就执行。指令通过赋予HTML新语法来扩展其功能
         * [结构型指令---这些指令可以通过添加和删除视图DOM元素来更改DOM布局](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck32932b102423295c76ac7d9)
           * NgIf
           * NgFor
@@ -73,7 +75,6 @@
           * NgClass
           * NgStyle
           * NgContent 
-
 # Angular 项目实战
 * [Angular 10 Tutorial](https://www.javaguides.net/p/angular-10-tutorial.html)
 * [Free Open Source Angular Projects or Templates 系列](https://www.javaguides.net/2019/04/free-open-source-angular-projects-or-templates.html)
