@@ -63,6 +63,8 @@
           * [@ContentChildren()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck73532580243735b90b45ac8)
           * [@ContentChild()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck73532580243735b90b45ac8)
           * [@Directive()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9) 
+          * [@HostBinding()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)
+          * [@HostListener()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)
     * [1.2 ElementRef对象](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)---ElementRef对象：可以通过ElementRef对象的nativeElement属性直接访问应用该指令的DOM元素
     * [1.3 Renderer2对象](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)---Renderer2对象：Renderer2对象可实现自定义渲染器，它提供了许多辅助方法，如可以通过该对象修改DOM元素的样式。
    * [2 Angular指令](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckfc432fb0241fc490ca45614)---指令是DOM元素上的标记（如属性），它告诉Angular要将指定的行为附加到现有DOM元素。指令的核心是一个函数，只要Angular编译器在DOM元素中找到指令，该指令就执行。指令通过赋予HTML新语法来扩展其功能
