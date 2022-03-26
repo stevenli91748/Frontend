@@ -38,6 +38,11 @@
         * [Angular中的组件类就是MVVM模式中的VM（ViewModel，视图模型），ViewModel是View和Model的结合体，负责View和Model的交互和协作。组件类的作用是控制模板渲染,ViewModel是Component类中的代码](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka6832360236a684eceeee20) 
     * [组件类与模板的数据绑定方式](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckb5332110237b53b3a3d68d2) 
       * 单向数据绑定
+        * [Angular模板语言](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck0723244023c072b030ba601)
+          * 插值
+          * Angular模板表达式
+          * 模板语句
+          * 数据绑定 
         * 使用插值显示属性的值---数据绑定方向是从组件类到视图, 在模板视图中显示组件类的属性，最简单的方式就是通过插值绑定属性名。插值的语法就是把属性名写在双花括号里，如{{message}}
         * 属性绑定方式---数据绑定方向是从组件类到视图
           * DOM属性绑定
