@@ -47,11 +47,11 @@
             * Style样式绑定  
         * 事件绑定---数据绑定方向是从视图到组件类  
       * 双向数据绑定---双向数据绑定为Web应用程序提供了一种在组件类及其模板之间共享数据的方式
-      * [组件的交互](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck72b327f023972b32a1f7e2d)
-        * 装饰器
-          * @Component()装饰器
-          * @Output()装饰器
-          * @Input()装饰器
+    * [组件的交互](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck72b327f023972b32a1f7e2d)
+      * 装饰器
+        * @Component()装饰器
+        * @Output()装饰器
+        * @Input()装饰器
  
 # Angular 项目实战
 * [Angular 10 Tutorial](https://www.javaguides.net/p/angular-10-tutorial.html)
