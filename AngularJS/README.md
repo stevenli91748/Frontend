@@ -57,6 +57,7 @@
         * @Component()装饰器
         * @Output()装饰器
         * @Input()装饰器
+        * [@ViewChild()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck44f328c023e44f683a8420b)
  
 # Angular 项目实战
 * [Angular 10 Tutorial](https://www.javaguides.net/p/angular-10-tutorial.html)
