@@ -32,6 +32,7 @@
           * [防止重复导入核心模块 ](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckd2d32c50249d2ddea18fb39)
         * [共享模块（SharedModule）](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckd2d32c50249d2ddea18fb39)
         * 其他特性模块 
+      * [如何正确地分割模块---这里采用的核心模块是Service模块，而共享模块是Widget模块。核心模块只在根模块AppModule中导入一次，共享模块在需要它的所有特性模块中导入](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckad63251024aad61ab143c7e)
   * 2 Angular对象
     * [2.1 Angular组件对象](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc0c320a0232c0c7c76d365a)
       * [Angular组件设计就是采用的MVVM模式](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc7432af0210c74d97b01b1c) 
