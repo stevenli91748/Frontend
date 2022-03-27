@@ -65,6 +65,7 @@
           * [@Directive()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9) 
           * [@HostBinding()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)
           * [@HostListener()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)
+          * @NgModule()装饰器
     * [1.2 ElementRef对象](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)---ElementRef对象：可以通过ElementRef对象的nativeElement属性直接访问应用该指令的DOM元素
     * [1.3 Renderer2对象](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)---Renderer2对象：Renderer2对象可实现自定义渲染器，它提供了许多辅助方法，如可以通过该对象修改DOM元素的样式。
    * [2 Angular指令](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckfc432fb0241fc490ca45614)---指令是DOM元素上的标记（如属性），它告诉Angular要将指定的行为附加到现有DOM元素。指令的核心是一个函数，只要Angular编译器在DOM元素中找到指令，该指令就执行。指令通过赋予HTML新语法来扩展其功能
@@ -78,7 +79,9 @@
           * NgStyle
           * NgContent 
         * [在指令中监听事件](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)
-   * 3 Angular模块
+   * 3 [Angular模块---Angular模块是带有@NgModule()装饰器声明的类，Angular模块的主要作用是管理指令、管道、组件](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8c)
+       * Angular根模块      
+       * Angular特性模块 
 # Angular 项目实战
 * [Angular 10 Tutorial](https://www.javaguides.net/p/angular-10-tutorial.html)
 * [Free Open Source Angular Projects or Templates 系列](https://www.javaguides.net/2019/04/free-open-source-angular-projects-or-templates.html)
