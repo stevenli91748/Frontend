@@ -90,17 +90,6 @@
           * NgStyle
           * NgContent 
         * [在指令中监听事件](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)
-   * 3 [Angular模块---Angular模块是带有@NgModule()装饰器声明的类，Angular模块的主要作用是管理指令、管道、组件](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8c)
-       * 从技术角度将Angular模块分类
-         * Angular根模块---根模块是系统默认生成的      
-         * Angular特性模块---特性模块是由用户在开发过程中逐个增加的 
-         * [常用内置模块](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck32b321d024832bb90e89958)---无论是根模块还是特性模块，其实都可以引用这些内置模块
-       * [从业务角度对Angular模块进一步分类](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckd2d32c50249d2ddea18fb39)
-         * 根模块（AppModule）
-         * 核心模块（CoreModule）---，因此在核心模块中定义的服务就是单例服务,核心模块又可以称为核心服务模块。只有根模块AppModule才能导入核心模块。如果一个其他特性模块也导入了它，该Web应用程序就会为该服务生成多个实例
-           * [防止重复导入核心模块 ](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckd2d32c50249d2ddea18fb39)
-         * [共享模块（SharedModule）](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckd2d32c50249d2ddea18fb39)
-         * 其他特性模块 
 # Angular 项目实战
 * [Angular 10 Tutorial](https://www.javaguides.net/p/angular-10-tutorial.html)
 * [Free Open Source Angular Projects or Templates 系列](https://www.javaguides.net/2019/04/free-open-source-angular-projects-or-templates.html)
