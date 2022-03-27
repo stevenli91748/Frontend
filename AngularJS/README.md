@@ -107,9 +107,17 @@
        * 路由器出口 
          * 主路由出口
          * 命名路由出口
-         * 使用路由器链接
+         * [使用路由器链接](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckf03328d0250f033ab37c722)
            * 路由链接的激活状态
            * 路由器状态---路由器状态在Angular中用RouterState对象表示，RouterState对象维护的是一个路由器状态树，表示所有的路由器状态
+           * [在路由中传递参数](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck977321c02529778d5d2116b)
+           * [路由器触发的事件](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck43e327b025143ec517d680b)
+             * NavigationStart事件---表示导航周期的开始。
+             * NavigationCancel事件---取消导航，如可用在路由守卫（Route Guards）中，拒绝用户访问此路由。
+             * RoutesRecognized事件---当URL与路由匹配时，触发此事件。
+             * NavigationEnd事件---在导航成功结束时触发 
+           * 快照对象
+           * ActivatedRoute对象
    * 6 服务和依赖注入
    * 7 RxJS响应式编程基础
    * 8 表单
