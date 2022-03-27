@@ -19,7 +19,7 @@
 * 基础
   * [Node.js和npm基础 ](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck98f3284021498f137082c2e)
   * [TypeScript基础知识](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck33e3289021c33e75ff09694)
-* Angular---Angular的架构采用MVVM模式设计
+* Angular理论---Angular的架构采用MVVM模式设计
   * [Angular项目的启动过程](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck64232b60230642e92efb54c)
   * 1 [Angular模块---Angular模块是带有@NgModule()装饰器声明的类，Angular模块的主要作用是管理指令、管道、组件](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8c)
       * 从技术角度将Angular模块分类
@@ -93,7 +93,21 @@
         * [在指令中监听事件](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)
    * [4 管道---管道的作用是对模板表达式的结果进行一些转换，如将文本更改为大写、格式化日期显示、将数字显示为本地货币格式，或过滤列表并对其进行排序等,在整个Web应用程序中，管道用于获取数据，转换数据，然后把这些数据显示给用户 ](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck76d325c028076dc611d6d8c)
      * [内置管道](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck9b832a602829b86192511b5)
+       * 异步管道
+       * 金额管道
+       * 百分比管道
+       * JSON管道
+       * 大小写转换管道
+       * 日期格式转换管道 
+       * i18nSelect管道
      * [自定义管道 ](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck1af32e502831afa34a7fe44)
+*  Angular应用
+   * 5 Angular路由功能 
+   * 6 服务和依赖注入
+   * 7 RxJS响应式编程基础
+   * 8 表单
+   * 9 HttpClient模块
+
 # Angular 项目实战
 * [Angular 10 Tutorial](https://www.javaguides.net/p/angular-10-tutorial.html)
 * [Free Open Source Angular Projects or Templates 系列](https://www.javaguides.net/2019/04/free-open-source-angular-projects-or-templates.html)
