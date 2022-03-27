@@ -6,6 +6,12 @@
 
 ---
 
+# 在线书籍
+* [前端架构：从入门到微前端](https://weread.qq.com/web/reader/b9e32d007192169bb9e012d)
+
+
+
+
 [ 前端工程师晋级之路 2020版前端技术白皮书](https://www.youtube.com/watch?v=0QLHEOVnYtY)|[大前端面试宝典 - 图解前端](https://github.com/azl397985856/fe-interview/blob/master/docs/README.md)|
 ---|---|
 
