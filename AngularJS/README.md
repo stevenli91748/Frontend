@@ -21,8 +21,19 @@
   * [TypeScript基础知识](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck33e3289021c33e75ff09694)
 * Angular---Angular的架构采用MVVM模式设计
   * [Angular项目的启动过程](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck64232b60230642e92efb54c)
-  * 1 Angular对象
-    * [1.1 Angular组件对象](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc0c320a0232c0c7c76d365a)
+  * 1 [Angular模块---Angular模块是带有@NgModule()装饰器声明的类，Angular模块的主要作用是管理指令、管道、组件](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8c)
+      * 从技术角度将Angular模块分类
+        * Angular根模块---根模块是系统默认生成的      
+        * Angular特性模块---特性模块是由用户在开发过程中逐个增加的 
+        * [常用内置模块](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck32b321d024832bb90e89958)---无论是根模块还是特性模块，其实都可以引用这些内置模块
+      * [从业务角度对Angular模块进一步分类](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckd2d32c50249d2ddea18fb39)
+        * 根模块（AppModule）
+        * 核心模块（CoreModule）---，因此在核心模块中定义的服务就是单例服务,核心模块又可以称为核心服务模块。只有根模块AppModule才能导入核心模块。如果一个其他特性模块也导入了它，该Web应用程序就会为该服务生成多个实例
+          * [防止重复导入核心模块 ](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckd2d32c50249d2ddea18fb39)
+        * [共享模块（SharedModule）](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckd2d32c50249d2ddea18fb39)
+        * 其他特性模块 
+  * 2 Angular对象
+    * [2.1 Angular组件对象](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc0c320a0232c0c7c76d365a)
       * [Angular组件设计就是采用的MVVM模式](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc7432af0210c74d97b01b1c) 
         * [MVVM模式的优点](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc7432af0210c74d97b01b1c) 
         * M（Model）：模型---双向绑定技术：当Model变化时，ViewModel会自动更新，View也会自动变化
@@ -66,9 +77,9 @@
           * [@HostBinding()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)
           * [@HostListener()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)
           * @NgModule()装饰器
-    * [1.2 ElementRef对象](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)---ElementRef对象：可以通过ElementRef对象的nativeElement属性直接访问应用该指令的DOM元素
-    * [1.3 Renderer2对象](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)---Renderer2对象：Renderer2对象可实现自定义渲染器，它提供了许多辅助方法，如可以通过该对象修改DOM元素的样式。
-   * [2 Angular指令](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckfc432fb0241fc490ca45614)---指令是DOM元素上的标记（如属性），它告诉Angular要将指定的行为附加到现有DOM元素。指令的核心是一个函数，只要Angular编译器在DOM元素中找到指令，该指令就执行。指令通过赋予HTML新语法来扩展其功能
+    * [2.2 ElementRef对象](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)---ElementRef对象：可以通过ElementRef对象的nativeElement属性直接访问应用该指令的DOM元素
+    * [2.3 Renderer2对象](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)---Renderer2对象：Renderer2对象可实现自定义渲染器，它提供了许多辅助方法，如可以通过该对象修改DOM元素的样式。
+   * [3 Angular指令](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckfc432fb0241fc490ca45614)---指令是DOM元素上的标记（如属性），它告诉Angular要将指定的行为附加到现有DOM元素。指令的核心是一个函数，只要Angular编译器在DOM元素中找到指令，该指令就执行。指令通过赋予HTML新语法来扩展其功能
         * [结构型指令---这些指令可以通过添加和删除视图DOM元素来更改DOM布局](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck32932b102423295c76ac7d9)
           * NgIf
           * NgFor
@@ -86,8 +97,9 @@
          * [常用内置模块](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck32b321d024832bb90e89958)---无论是根模块还是特性模块，其实都可以引用这些内置模块
        * [从业务角度对Angular模块进一步分类](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckd2d32c50249d2ddea18fb39)
          * 根模块（AppModule）
-         * 核心模块（CoreModule）
-         * 共享模块（SharedModule）
+         * 核心模块（CoreModule）---，因此在核心模块中定义的服务就是单例服务,核心模块又可以称为核心服务模块。只有根模块AppModule才能导入核心模块。如果一个其他特性模块也导入了它，该Web应用程序就会为该服务生成多个实例
+           * [防止重复导入核心模块 ](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckd2d32c50249d2ddea18fb39)
+         * [共享模块（SharedModule）](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckd2d32c50249d2ddea18fb39)
          * 其他特性模块 
 # Angular 项目实战
 * [Angular 10 Tutorial](https://www.javaguides.net/p/angular-10-tutorial.html)
