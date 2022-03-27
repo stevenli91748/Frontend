@@ -82,6 +82,7 @@
    * 3 [Angular模块---Angular模块是带有@NgModule()装饰器声明的类，Angular模块的主要作用是管理指令、管道、组件](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8c)
        * Angular根模块      
        * Angular特性模块 
+       * [常用内置模块](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck32b321d024832bb90e89958)
 # Angular 项目实战
 * [Angular 10 Tutorial](https://www.javaguides.net/p/angular-10-tutorial.html)
 * [Free Open Source Angular Projects or Templates 系列](https://www.javaguides.net/2019/04/free-open-source-angular-projects-or-templates.html)
