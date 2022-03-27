@@ -91,7 +91,7 @@
           * NgStyle
           * NgContent 
         * [在指令中监听事件](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)
-   * [4 管道 ](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck76d325c028076dc611d6d8c)
+   * [4 管道---管道的作用是对模板表达式的结果进行一些转换，如将文本更改为大写、格式化日期显示、将数字显示为本地货币格式，或过滤列表并对其进行排序等,在整个Web应用程序中，管道用于获取数据，转换数据，然后把这些数据显示给用户 ](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck76d325c028076dc611d6d8c)
 # Angular 项目实战
 * [Angular 10 Tutorial](https://www.javaguides.net/p/angular-10-tutorial.html)
 * [Free Open Source Angular Projects or Templates 系列](https://www.javaguides.net/2019/04/free-open-source-angular-projects-or-templates.html)
