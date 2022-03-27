@@ -102,7 +102,7 @@
        * i18nSelect管道
      * [自定义管道 ](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck1af32e502831afa34a7fe44)
 *  Angular应用
-   * 5 Angular路由功能 
+   * 5 [Angular路由功能---Angular路由（Router）使开发者可以构建具有多个视图的单页应用程序，并允许用户在这些视图之间导航 ](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck35f3251024e35f4a8d46404)
    * 6 服务和依赖注入
    * 7 RxJS响应式编程基础
    * 8 表单
