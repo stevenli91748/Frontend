@@ -34,7 +34,7 @@
         * 其他特性模块 
       * [如何正确地分割模块---这里采用的核心模块是Service模块，而共享模块是Widget模块。核心模块只在根模块AppModule中导入一次，共享模块在需要它的所有特性模块中导入](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckad63251024aad61ab143c7e)
   * 2 Angular对象
-    * [2.1 Angular组件对象](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc0c320a0232c0c7c76d365a)
+    * [2.1 Angular组件对象---组件应只负责用户体验，不应该负责如何去直接或间接地获取数据，也不应该关心自己展示的数据是真实的还是模拟的假数据](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc0c320a0232c0c7c76d365a)
       * [Angular组件设计就是采用的MVVM模式](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc7432af0210c74d97b01b1c) 
         * [MVVM模式的优点](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc7432af0210c74d97b01b1c) 
         * M（Model）：模型---双向绑定技术：当Model变化时，ViewModel会自动更新，View也会自动变化
@@ -78,6 +78,7 @@
           * [@HostBinding()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)
           * [@HostListener()装饰器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)
           * @NgModule()装饰器
+          * @Injectable()装饰器
     * [2.2 ElementRef对象](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)---ElementRef对象：可以通过ElementRef对象的nativeElement属性直接访问应用该指令的DOM元素
     * [2.3 Renderer2对象](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3f32db0244a3f390d88bb9)---Renderer2对象：Renderer2对象可实现自定义渲染器，它提供了许多辅助方法，如可以通过该对象修改DOM元素的样式。
    * [3 Angular指令](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckfc432fb0241fc490ca45614)---指令是DOM元素上的标记（如属性），它告诉Angular要将指定的行为附加到现有DOM元素。指令的核心是一个函数，只要Angular编译器在DOM元素中找到指令，该指令就执行。指令通过赋予HTML新语法来扩展其功能
@@ -127,9 +128,20 @@
              * CanDeactivate守卫，用来处理从当前路由离开的逻辑
              * Resolve守卫，用来在路由激活之前获取业务数据
              * CanLoad守卫，用来处理异步导航到某特性模块的逻辑 
+           * [路由器的延迟加载](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck68d3221025468d30a95982e)
            * 快照对象
            * ActivatedRoute对象
    * 6 服务和依赖注入
+       * [服务---组件只需要展示数据就可以了，获取和处理数据的工作应该让服务来完成](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc7e326d0257c7e1249ff682)
+       * [依赖注入---Angular通过依赖注入更容易将Web应用程序逻辑分解为服务，并使这些服务可用于各个组件中 ](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck2a3327002582a38a4a932bf)
+         * [注入器--Angular在启动过程中会自动为每个模块创建一个注入器，注入器是一个树结构](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck2a3327002582a38a4a932bf)
+           * 根注入器---根注入器会提供依赖的一个单例对象，可以把这个单例对象注入多个组件中
+           * 模块级别的注入器---模块和组件级别的注入器可以为它们的组件及其子组件提供同一个依赖的不同实例
+           * 组件级别的注入器---模块和组件级别的注入器可以为它们的组件及其子组件提供同一个依赖的不同实例,组件可以从它自己的注入器中获取服务、从其祖先组件的注入器中获取服务、从其父模块（NgModule类）级别的注入器中获取服务，或从根注入器中获取服务
+           * [不同级别的注入器创建的依赖服务有不同的作用域---表示该服务在Web应用程序中的可见性。不同级别的注入器创建的依赖服务对应着Web应用程序中的不同可见性](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck861322a025a8613985ec87a)
+             * root ---表示选择的是根注入器，根注入器在整个Web应用程序中仅创建服务的一个单例对象，可以把这个单例对象注入任何想要它的类中
+             * platform---
+             * any---是模块注入器，这意味着同一服务可能有多个实例
    * 7 RxJS响应式编程基础
    * 8 表单
    * 9 HttpClient模块
