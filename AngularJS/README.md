@@ -166,8 +166,18 @@
        * FormGroup
        * FormArray 
      * [表单指令](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka973204026ba97da629bd12)
-       * 表单数据访问器---ControlValueAccessor类(视图层)
-       *  
+       * [ControlValueAccessor类(视图层)---表单数据访问器,用于在Angular的FormControl类和原生DOM元素之间创建一个桥梁](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3c320b026ca3c65c297000)
+         * Angular的内置表单数据访问器有7种 
+           * CheckboxControlValueAccessor
+           * DefaultValueAccessor
+           * NumberValueAccessor
+           * RadioControlValueAccessor
+           * RangeValueAccessor
+           * SelectControlValueAccessor
+           * SelectMultipleControlValueAccessor 
+       * AbstractControlDirective类（中间层）
+       * AbstractControl类（模型层） 
+       
 
    * 9 HttpClient模块
 
