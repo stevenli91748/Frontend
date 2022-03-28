@@ -111,11 +111,17 @@
            * 路由链接的激活状态
            * 路由器状态---路由器状态在Angular中用RouterState对象表示，RouterState对象维护的是一个路由器状态树，表示所有的路由器状态
            * [在路由中传递参数](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck977321c02529778d5d2116b)
-           * [路由器触发的事件](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck43e327b025143ec517d680b)
+             * [传递配置参数](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8c)
+             * [传递路径参数](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8c)
+               * 必选参数
+               * 可选参数  
+               * 传递查询参数
+            * [路由器触发的事件](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck43e327b025143ec517d680b)
              * NavigationStart事件---表示导航周期的开始。
              * NavigationCancel事件---取消导航，如可用在路由守卫（Route Guards）中，拒绝用户访问此路由。
              * RoutesRecognized事件---当URL与路由匹配时，触发此事件。
              * NavigationEnd事件---在导航成功结束时触发 
+           * [路由守卫--守卫的意义是判断当前用户在进入路由或者离开路由的时候，是否有权限或者有未完成的操作](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckfe932230253fe9fc289c8a3)
            * 快照对象
            * ActivatedRoute对象
    * 6 服务和依赖注入
