@@ -157,7 +157,18 @@
                  * FactoryProvider   
          * [直接使用Injector类创建依赖](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck98d321b025d98dce83da05a)
    * 7 RxJS响应式编程基础
-   * 8 表单
+   * [8 表单---用户通过表单与服务进行交互, Angular表单从数据结构上分为视图层与模型层,在视图层，Angular表单处理用户与表单的交互；在模型层，Angular表单创建了专门的容器对象负责跟踪、处理和存储表单数据](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck65b326f026965b9eea6e6e1)
+     * 模板驱动表单
+     * 响应式表单
+     * [表单模型](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckf09320f026af0935e4cd23d)
+       * AbstractControl
+       * FormControl
+       * FormGroup
+       * FormArray 
+     * [表单指令](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka973204026ba97da629bd12)
+       * 表单数据访问器---ControlValueAccessor类(视图层)
+       *  
+
    * 9 HttpClient模块
 
 # Angular 项目实战
