@@ -122,6 +122,11 @@
              * RoutesRecognized事件---当URL与路由匹配时，触发此事件。
              * NavigationEnd事件---在导航成功结束时触发 
            * [路由守卫--守卫的意义是判断当前用户在进入路由或者离开路由的时候，是否有权限或者有未完成的操作](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckfe932230253fe9fc289c8a3)
+             * CanActivate守卫，用来处理导航到某路由的逻辑
+             * CanActivateChild守卫，用来处理导航到某子路由的逻辑
+             * CanDeactivate守卫，用来处理从当前路由离开的逻辑
+             * Resolve守卫，用来在路由激活之前获取业务数据
+             * CanLoad守卫，用来处理异步导航到某特性模块的逻辑 
            * 快照对象
            * ActivatedRoute对象
    * 6 服务和依赖注入
