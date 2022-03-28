@@ -142,6 +142,18 @@
              * root ---表示选择的是根注入器，根注入器在整个Web应用程序中仅创建服务的一个单例对象，可以把这个单例对象注入任何想要它的类中
              * platform---
              * any---是模块注入器，这意味着同一服务可能有多个实例
+           * [配置提供商---在Angular中有3个地方可以配置提供商,以便在Web应用程序的不同层级使用提供商来配置注入器](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck5423294025b54229abfc040)
+             * Angular中有3个地方可以配置提供商
+               * 在服务本身的@Injectable()装饰器中
+               * 在模块类的@NgModule()装饰器中
+               * 在组件类的@Component()装饰器中
+             * Angular中有6种类型的提供商
+               * TypeProvider
+               * ValueProvider
+               * ClassProvider
+               * ConstructorProvider
+               * ExistingProvider
+               * FactoryProvider   
    * 7 RxJS响应式编程基础
    * 8 表单
    * 9 HttpClient模块
