@@ -10,7 +10,7 @@
 
 * [深入浅出RxJS-- 非常不错的书](https://weread.qq.com/web/reader/cfd321e05e4002cfd1a1ec2)
 * [React + Node.js开发实战： 从入门到项目上线](https://weread.qq.com/web/reader/29b322f07224e31b29b76fc)
-
+* [React.js 16 从入门到实战](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976f)
 ---
 
 [精尽 React 学习指南](http://svip.iocoder.cn/React/tutorials/)|[React 快速教程](https://www.w3schools.com/react/default.asp)|[ReactJS Tutorial](https://www.javaguides.net/p/reactjs-tutorial.html)|
