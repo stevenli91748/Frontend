@@ -200,10 +200,31 @@
        * 表单控件状态的CSS样式类    
        * [使用ngSubmit事件提交表单](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck7323297027173278a4a8f1d)
    * [9 HttpClient模块](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckeb132680275eb160de1d35c)
-     * RESTful API服务
+     * [创建RESTful API服务](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckda432420278da4fb5c6e9ad)
        * 方法一：使用json-server模拟RESTful API服务
        * 方法二：使用Angular内存数据库模拟服务器 （in-memory-web-api）
-     * [跨域资源共享（CORS）](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka0a32dd027aa0a080f42962)
+     * HTTP
+       * HTTP请求方法
+         * 从服务器获取数据的请求
+           * [GET---它是幂等（Idempotent）的，意思是发出多个相同的GET请求与发出单个GET请求具有相同的效果](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck4c5327a02794c56ff4ce24c)
+             * [HttpClient模块的请求头配置 ](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka0a32dd027aa0a080f42962)
+               * 添加请求头
+               * 修改请求头
+               * 配置请求参数 
+               * [跨域访问控制](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka0a32dd027aa0a080f42962) 
+                 * 跨域资源共享（CORS）
+                 * 请求JSON数据---当服务器不支持跨域资源共享协议(CORS）时，JSONP是目前应用最为广泛的技术解决方案之一
+                 * 请求非JSON数据 
+         * 修改型的请求
+           * [POST---它不是幂等的，意思是多次调用相同的POST请求与调用一次的效果不同](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc8f3245027cc8ffe9a588b8)
+           * [PUT---它是幂等的，意思是多次调用相同的PUT请求与调用一次的效果相同](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc8f3245027cc8ffe9a588b8)
+           * PATCH
+           * [DELETE ---它不是幂等的，意思是多次调用相同的DELETE请求与调用一次的效果不同](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc8f3245027cc8ffe9a588b8)
+       * HTTP响应
+         * [读取完整的响应信息](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka0a32dd027aa0a080f42962)
+         * [ HttpClient模块与RxJS配合](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck2023270027b202cb962a56f)
+           * 错误处理
+           * 重试 
 # Angular 项目实战
 * [Angular 10 Tutorial](https://www.javaguides.net/p/angular-10-tutorial.html)
 * [Free Open Source Angular Projects or Templates 系列](https://www.javaguides.net/2019/04/free-open-source-angular-projects-or-templates.html)
