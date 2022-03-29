@@ -199,7 +199,10 @@
          * maxLength
        * 表单控件状态的CSS样式类    
        * [使用ngSubmit事件提交表单](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck7323297027173278a4a8f1d)
-   * 9 HttpClient模块
+   * [9 HttpClient模块](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckeb132680275eb160de1d35c)
+     * RESTful API服务
+       * 方法一：使用json-server模拟RESTful API服务
+       * 方法二：使用Angular内存数据库模拟服务器 （in-memory-web-api）
 
 # Angular 项目实战
 * [Angular 10 Tutorial](https://www.javaguides.net/p/angular-10-tutorial.html)
