@@ -187,8 +187,18 @@
            * SelectMultipleControlValueAccessor 
        * AbstractControlDirective类（中间层 ）
        * AbstractControl类（模型层） 
-       
-
+     * [表单验证](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck7f632b502707f6ffaa6bf2e)
+       * 自定义验证器
+       * 内置的常用验证器
+         * required
+         * pattern
+         * email
+         * min
+         * max
+         * minLength
+         * maxLength
+       * 表单控件状态的CSS样式类    
+       * [使用ngSubmit事件提交表单](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck7323297027173278a4a8f1d)
    * 9 HttpClient模块
 
 # Angular 项目实战
