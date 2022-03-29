@@ -203,7 +203,7 @@
      * RESTful API服务
        * 方法一：使用json-server模拟RESTful API服务
        * 方法二：使用Angular内存数据库模拟服务器 （in-memory-web-api）
-
+     * [跨域资源共享（CORS）](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka0a32dd027aa0a080f42962)
 # Angular 项目实战
 * [Angular 10 Tutorial](https://www.javaguides.net/p/angular-10-tutorial.html)
 * [Free Open Source Angular Projects or Templates 系列](https://www.javaguides.net/2019/04/free-open-source-angular-projects-or-templates.html)
