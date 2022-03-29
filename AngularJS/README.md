@@ -159,18 +159,23 @@
    * 7 RxJS响应式编程基础
    * [8 表单---用户通过表单与服务进行交互, Angular表单从数据结构上分为视图层与模型层,在视图层，Angular表单处理用户与表单的交互；在模型层，Angular表单创建了专门的容器对象负责跟踪、处理和存储表单数据](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck65b326f026965b9eea6e6e1)
      * 模板驱动表单
-       *  
+       * [模板驱动表单指令](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8c)
+         * NgForm
+         * NgModel
+         * NgModelGroup 
      * 响应式表单
+       * [响应式表单指令](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck5f9323e026e5f93f9835418)
+         * FormControlDirective
+         * FormGroupDirective
+         * FormControlName
+         * FormGroupName
+         * FormArrayName
      * [表单模型](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckf09320f026af0935e4cd23d)
        * AbstractControl
        * FormControl
        * FormGroup
        * FormArray 
-     * [表单指令](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka973204026ba97da629bd12)
-       * [模板驱动表单相关指令](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8c)
-         * NgForm
-         * NgModel
-         * NgModelGroup 
+     * [表单指令---指令被视为视图层与模型层（AbstractControl类的子类：FormControl类、FormArray类和FormGroup类）之间连接的桥梁](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka973204026ba97da629bd12)
        * [ControlValueAccessor类(视图层)---表单数据访问器,用于在Angular的FormControl类和原生DOM元素之间创建一个桥梁](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka3c320b026ca3c65c297000)
          * Angular的内置表单数据访问器有7种 
            * CheckboxControlValueAccessor
@@ -180,7 +185,7 @@
            * RangeValueAccessor
            * SelectControlValueAccessor
            * SelectMultipleControlValueAccessor 
-       * AbstractControlDirective类（中间层）
+       * AbstractControlDirective类（中间层 ）
        * AbstractControl类（模型层） 
        
 
