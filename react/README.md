@@ -27,8 +27,8 @@
 * [React Native学习指南](https://www.kancloud.cn/digest/rnative/121783)
 ---
 
-[精尽 React 学习指南](http://svip.iocoder.cn/React/tutorials/)|[React 快速教程](https://www.w3schools.com/react/default.asp)|[ReactJS Tutorial](https://www.javaguides.net/p/reactjs-tutorial.html)|
----|---|---|
+[React 快速教程](https://www.w3schools.com/react/default.asp)|[ReactJS Tutorial](https://www.javaguides.net/p/reactjs-tutorial.html)|
+---|---|
 
 
 
@@ -57,7 +57,7 @@
       * [React类组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk33e3289021c33e75ff09694)
       * [React组合组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk6ea321b021d6ea9ab1ba605)
       * [React组件切分与提取](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fke3632bd0222e369853df322)
-    * [Props---React组件通过Props可以接收任意的输入值，因此Props也可以理解为参数的概念 ](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk341323f021e34173cb3824c)
+    * [Props---React组件通过Props可以接收任意的输入值，专门用来实现React函数组件接受参数的输入](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk341323f021e34173cb3824c)
 
 
 
