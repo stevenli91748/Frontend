@@ -42,11 +42,22 @@
 
 
 # 目录
-* React脚手架
-  *  Node.js与npm
-  *  Webpack模块打包器
-  *  ES6和Babel
-  *   
+* 基础
+  * [React JSX---JSX是React框架内置的语法，且专用于React应用开发，因此建议设计人员使用JSX方式来实现UI中的虚拟DOM,直译过来就是基于JavaScript的XML，若要在React项目中使用JSX语法，则必须引用“babel.js”来解析JSX，且在<script>标签中必须改用“type="text/babel"”属性](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fkaab325601eaab3238922e53)
+  * [React脚手架](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk45c322601945c48cce2e120)
+    *  Node.js与npm
+    *  Webpack模块打包器
+    *  ES6和Babel
+  * [React组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk8e232ec02198e296a067180)
+    * React组件---React组件从形式上看很像是JavaScript函数，通过这个函数返回一个需要在页面上展示的React元素，在函数内部定义好页面需要的元素组合，通过return语句返回函数值就可以了
+      * React组件实现的方法
+        * React组件通过JavaScript函数的形式来实现 
+        * 通过ES6 Class（类）的形式来实现 
+      * React函数组件
+      * React类组件
+      * React组合组件
+      * React组件切分与提取
+    * [Props---React组件通过Props可以接收任意的输入值，因此Props也可以理解为参数的概念 ](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk341323f021e34173cb3824c)
 
 
 
