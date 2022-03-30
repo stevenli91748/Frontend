@@ -8,9 +8,22 @@
 
 # 在线书籍
 
+## React
 * [深入浅出RxJS-- 非常不错的书](https://weread.qq.com/web/reader/cfd321e05e4002cfd1a1ec2)
 * [React + Node.js开发实战： 从入门到项目上线](https://weread.qq.com/web/reader/29b322f07224e31b29b76fc)
 * [React.js 16 从入门到实战](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976f)
+* [使用React、Node.js、MongoDB、Socket.IO开发一个角色投票应用](https://www.kancloud.cn/kancloud/create-voting-app)
+* [深入浅出React](https://www.kancloud.cn/kancloud/react-in-depth)
+* [React 入门实例教程](https://www.kancloud.cn/kancloud/react)
+* [React 测试入门教程](https://www.kancloud.cn/digest/react-testing-tutorial)
+* [React入门指南](https://www.kancloud.cn/kancloud/react-quickstart)
+
+## React Native
+* [React Native 开发抖音 APP](https://www.kancloud.cn/fortheday/react-native-douyin)
+* [React-Native入门指南](https://www.kancloud.cn/kancloud/react-native-lession)
+* [React Navtive框架教程---本教程只涉及iOS](https://www.kancloud.cn/digest/reactvavtive)
+* [react-native试玩](https://www.kancloud.cn/digest/doctorqrn)
+
 ---
 
 [精尽 React 学习指南](http://svip.iocoder.cn/React/tutorials/)|[React 快速教程](https://www.w3schools.com/react/default.asp)|[ReactJS Tutorial](https://www.javaguides.net/p/reactjs-tutorial.html)|
