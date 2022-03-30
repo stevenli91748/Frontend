@@ -17,13 +17,14 @@
 * [React 入门实例教程](https://www.kancloud.cn/kancloud/react)
 * [React 测试入门教程](https://www.kancloud.cn/digest/react-testing-tutorial)
 * [React入门指南](https://www.kancloud.cn/kancloud/react-quickstart)
+* [我的开发之路系列 - React学习指南](https://www.kancloud.cn/xiaoyulive/react)
 
 ## React Native
 * [React Native 开发抖音 APP](https://www.kancloud.cn/fortheday/react-native-douyin)
 * [React-Native入门指南](https://www.kancloud.cn/kancloud/react-native-lession)
 * [React Navtive框架教程---本教程只涉及iOS](https://www.kancloud.cn/digest/reactvavtive)
 * [react-native试玩](https://www.kancloud.cn/digest/doctorqrn)
-
+* [React Native学习指南](https://www.kancloud.cn/digest/rnative/121783)
 ---
 
 [精尽 React 学习指南](http://svip.iocoder.cn/React/tutorials/)|[React 快速教程](https://www.w3schools.com/react/default.asp)|[ReactJS Tutorial](https://www.javaguides.net/p/reactjs-tutorial.html)|
