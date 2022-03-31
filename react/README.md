@@ -59,7 +59,11 @@
       * [React组件切分与提取](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fke3632bd0222e369853df322)
     * [Props---React组件通过Props可以接收任意的输入值，专门用来实现React函数组件接受参数的输入](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk341323f021e34173cb3824c)
     * [React State与生命周期](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk1c3321802231c383cd30bb3)
-      * state---React框架之所以定义这个状态（State）概念，其目的就是仅仅通过更新React组件的状态（State），就可以实现重新渲染用户界面的操作（这样就不需要操作DOM了）。这点也正是React设计理念相较于其他前端框架的先进之处。 
+      * state---React框架之所以定义这个状态（State）概念，其目的就是仅仅通过更新React组件的状态（State），就可以实现重新渲染用户界面的操作（这样就不需要操作DOM了）。这点也正是React设计理念相较于其他前端框架的先进之处
+        * 生命周期可基本分成三个状态
+          * Mounting：已开始挂载真实的组件DOM
+          * Updating：正在重新渲染组件DOM
+          * Unmounting：已卸载真实的组件DOM。 
     * [React事件处理](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fkd9d320f022ed9d4f495e456)
 
 
