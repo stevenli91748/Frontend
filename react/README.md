@@ -53,6 +53,8 @@
       * React组件实现的方法
         * 方法一：通过JavaScript函数的形式来实现React组件 
         * 方法二：通过ES6 Class（类）的形式来实现React组件
+      * [受控组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk68d3221025468d30a95982e)
+      * [非受控组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk68d3221025468d30a95982e)
       * [React函数组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk02e32f0021b02e74f10ece8)
       * [React类组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk33e3289021c33e75ff09694)
       * [React组合组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk6ea321b021d6ea9ab1ba605)
