@@ -186,12 +186,18 @@ Sass---主流的 CSS 预处理语言|pug--- HTML 模板的预处理语言|
 
 
 # 前端技术点名词解析
-[浏览器同源政策及其规避方法](http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)|[跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)|[无头浏览器 Puppeteer 初探](https://juejin.im/post/59e5a86c51882578bf185dba)|[为什么单页面的seo不友好？如何解决这一问题？](https://juejin.im/post/5d9848306fb9a04ddf2c341b)|
----|---|---|---|
+[浏览器同源政策及其规避方法](http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)|[无头浏览器 Puppeteer 初探](https://juejin.im/post/59e5a86c51882578bf185dba)|[为什么单页面的seo不友好？如何解决这一问题？](https://juejin.im/post/5d9848306fb9a04ddf2c341b)|
+---|---|---|
 
 
 [单页应用多路由预渲染指南](https://juejin.im/post/59d49d976fb9a00a571d651d)|[服务端渲染（SSR)](https://juejin.im/post/5c068fd8f265da61524d2abc)|
 ---|---|
+
+
+# 跨域资源共享 CORS
+* [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
+* [利用CORS实现跨域请求](http://newhtml.net/using-cors/)
+
 
 
 # 前端视频
