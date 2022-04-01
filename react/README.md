@@ -49,8 +49,7 @@
     *  Node.js与npm
     *  Webpack模块打包器
     *  ES6和Babel
- *  
- * [React组件---尽管React组件与JSX代码实现的功能基本一致，但从设计角度上讲还是推荐使用React组件方式。原因是：将React组件与Props结合使用可以实现更灵活的功能，注意一点，React组件的名称首字母必须是大写的](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk8e232ec02198e296a067180)
+  * [React组件---尽管React组件与JSX代码实现的功能基本一致，但从设计角度上讲还是推荐使用React组件方式。原因是：将React组件与Props结合使用可以实现更灵活的功能，注意一点，React组件的名称首字母必须是大写的](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk8e232ec02198e296a067180)
     * React组件原理---React组件从形式上看很像是JavaScript函数，通过这个函数返回一个需要在页面上展示的React元素，在函数内部定义好页面需要的元素组合，通过return语句返回函数值就可以了
       * React组件实现的方法
         * 方法一：通过JavaScript函数的形式来实现React组件 
@@ -69,7 +68,7 @@
           * Updating：正在重新渲染组件DOM
           * Unmounting：已卸载真实的组件DOM。 
     * [React事件处理](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fkd9d320f022ed9d4f495e456)
-
+    * [React Router](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fkf09320f026af0935e4cd23d)
 
 
 
@@ -103,3 +102,11 @@
 * [尚硅谷前端：React全栈项目谷粒后台](https://www.bilibili.com/video/av67517553?from=search&seid=8498443111459329613 "该项目是基于新版本 React 全家桶的后台管理项目，包括前端PC应用和后端应用,采用模块化、组件化、工程化的模式开发,项目架构 前台: React + Redux + React-Router + Axios + webpack
 后台: Node + Express + MongoDB + Mongoose")
 * [尚硅谷前端_硅谷直聘](https://www.bilibili.com/video/av49927093?from=search&seid=7125830216553997393 "该项目是基于新版本 React 的全栈项目，此项目为一个前后台分离的招聘的移动端Web SPA, 包括前端应用和后端应用,功能类似于BOSS直聘 前台: React全家桶 + ES6 + webpack 后台: Node + Express + MongoDB + SocketIO, 技术点:React, React-Router-DOM, Redux, antd-mobile, Axios,Postman, webpack ESlint,create-react-app,Babel, MD5, js-cookie, socket-io")
+ 
+ 
+ 
+ # 参考
+ * [React Native常用IDE推荐与安装配置](https://daimajiaoliu.com/daima/476219b40900404)
+ * [2020年值得你去试试的10个React开发工具](https://www.cnblogs.com/powertoolsteam/p/12071440.html)
+ * [2021 年 React 开发者使用率最高的 7 款工开发工具](https://news.sangniao.com/p/1443903086)
+ * [ReactNative开发工具有这一篇足矣](https://cloud.tencent.com/developer/article/1117710)
