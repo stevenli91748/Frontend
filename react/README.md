@@ -43,12 +43,14 @@
 
 # React目录
 * 基础
+  * [Node+Babel+Webpack搭建React环境](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fkc9e32940268c9e1074f5bc6) 
   * [React JSX---JSX是React框架内置的语法，且专用于React应用开发，因此建议设计人员使用JSX方式来实现UI中的虚拟DOM,直译过来就是基于JavaScript的XML，若要在React项目中使用JSX语法，则必须引用“babel.js”来解析JSX，且在<script>标签中必须改用“type="text/babel"”属性](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fkaab325601eaab3238922e53)
   * [React脚手架](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk45c322601945c48cce2e120)
     *  Node.js与npm
     *  Webpack模块打包器
     *  ES6和Babel
-  * [React组件---尽管React组件与JSX代码实现的功能基本一致，但从设计角度上讲还是推荐使用React组件方式。原因是：将React组件与Props结合使用可以实现更灵活的功能，注意一点，React组件的名称首字母必须是大写的](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk8e232ec02198e296a067180)
+ *  
+ * [React组件---尽管React组件与JSX代码实现的功能基本一致，但从设计角度上讲还是推荐使用React组件方式。原因是：将React组件与Props结合使用可以实现更灵活的功能，注意一点，React组件的名称首字母必须是大写的](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk8e232ec02198e296a067180)
     * React组件原理---React组件从形式上看很像是JavaScript函数，通过这个函数返回一个需要在页面上展示的React元素，在函数内部定义好页面需要的元素组合，通过return语句返回函数值就可以了
       * React组件实现的方法
         * 方法一：通过JavaScript函数的形式来实现React组件 
