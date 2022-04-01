@@ -197,7 +197,7 @@ Sass---主流的 CSS 预处理语言|pug--- HTML 模板的预处理语言|
 # 跨域资源共享 CORS
 * [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)
 * [利用CORS实现跨域请求](http://newhtml.net/using-cors/)
-
+* [跨域资源共享”（Cross Origin Resource Sharing, CORS）](https://fetch.spec.whatwg.org/)
 
 
 # 前端视频
