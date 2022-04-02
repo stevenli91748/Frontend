@@ -121,9 +121,22 @@
 
 * [前端架构之路（1） - 前后端分离、web与static服务器分离](https://www.jianshu.com/p/2f651321fb08)
 * [前端架构之路（2） - 本地化接口模拟、前后端并行开发](https://www.jianshu.com/p/efb29098a685)
+  * 本地化接口模拟---本地数据模拟的解决方案有两种思路
+    * 同等模拟服务器环境，就是依据文档，完全按照服务器的接口配置搭建本地的接口服务；
+    * 多环境配置&切换，就是从代码的层面配置多个环境（如 线上环境，本地环境），根据是在线上还是在本地切换不同的环境。 
+  * 前后端并行开发 
 * [前端架构之路（3） - 前端开发规范](https://www.jianshu.com/p/db4d72ad0530)
-  * 编码规范
-    * [code style  ](http://imweb.github.io/CodeGuide/)
+  * 开发规范分类 
+    * 编码规范
+      * [code style  ](http://imweb.github.io/CodeGuide/)
+    * 项目结构规范
+      * 命名规范
+      * 模块化分组规范
+      * 组件化规范---这里的组件化并不是指在代码、框架层面的组件化，而是在架构和规范层面的组件化
+    * 框架、工具规范
+      * 框架和 UI 库
+      * 构建工具 
+    * 其他约定
 * [前端架构之路（4） - 前端开发文档](https://www.jianshu.com/p/c99232d9dda7)
 * [前端架构之路（5） - 构建工具 for teamwork](https://www.jianshu.com/p/491d496917c8)
 * [前端架构之路（6） - 组件化](https://www.jianshu.com/p/7827b4f6b0a9)
