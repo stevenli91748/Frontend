@@ -122,6 +122,8 @@
 * [前端架构之路（1） - 前后端分离、web与static服务器分离](https://www.jianshu.com/p/2f651321fb08)
 * [前端架构之路（2） - 本地化接口模拟、前后端并行开发](https://www.jianshu.com/p/efb29098a685)
 * [前端架构之路（3） - 前端开发规范](https://www.jianshu.com/p/db4d72ad0530)
+  * 编码规范
+    * [code style  ](http://imweb.github.io/CodeGuide/)
 * [前端架构之路（4） - 前端开发文档](https://www.jianshu.com/p/c99232d9dda7)
 * [前端架构之路（5） - 构建工具 for teamwork](https://www.jianshu.com/p/491d496917c8)
 * [前端架构之路（6） - 组件化](https://www.jianshu.com/p/7827b4f6b0a9)
