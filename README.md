@@ -138,12 +138,32 @@
       * 构建工具 
     * 其他约定
 * [前端架构之路（4） - 前端开发文档](https://www.jianshu.com/p/c99232d9dda7)
+  * 把注释生成文档的工具
+    * JSDoc---是一个根据 javascript 文件中注释信息，生成 JavaScript 应用程序或库、模块的 API 文档 的工具
+  * 业务逻辑、更新日志与备注
+    * 业务逻辑 ---有些比较复杂的业务逻辑不太适合放在注释里面，需要单独写逻辑文档，以备后面查看
+    * 更新日志---更新日志也是一个比较重要文档，能够方便查找更新状态、时间、开发人员等
+    * 备注
 * [前端架构之路（5） - 构建工具 for teamwork](https://www.jianshu.com/p/491d496917c8)
 * [前端架构之路（6） - 组件化](https://www.jianshu.com/p/7827b4f6b0a9)
 * [前端架构之路（7） - 私有 npm 仓库](https://www.jianshu.com/p/5e6129a20d33)
 * [前端架构之路（8） - 单页面应用（SPA）、按需加载](https://www.jianshu.com/p/6722940919ca)
 * [前端架构之路（9） - 服务器端渲染（SSR）与 node 中间层](https://www.jianshu.com/p/941a7a6eedf7)
-
+* [前端架构之路（10） CSS 模块化](https://github.com/senntyou/blogs)
+* [前端架构之路（11） 目录结构优化](https://github.com/senntyou/blogs)
+* [前端架构之路（12） 怎样提升代码质量](https://github.com/senntyou/blogs)
+* [前端架构之路（13） 清理服务器上 webpack 打包的过期 hash 文件](https://github.com/senntyou/blogs)
+* [前端架构之路（14） js 扩展：静态类型检查（facebook flow）](https://github.com/senntyou/blogs)
+* [前端架构之路（15） webpack 之外的另一种选择：rollup](https://github.com/senntyou/blogs)
+* [前端架构之路（16） react、vue 组件开发利器：storybook](https://github.com/senntyou/blogs)
+* [前端架构之路（17） 前端开发需要了解的工具集合：webpack, eslint, prettier, ...](https://github.com/senntyou/blogs)
+* [前端架构之路（18） js 性能优化利器：prepack](https://github.com/senntyou/blogs)
+* [前端架构之路（19） webpack 之外的另一种选择：parcel](https://github.com/senntyou/blogs)
+* [前端架构之路（20） js 数据结构类型扩展：immutable-js](https://github.com/senntyou/blogs)
+* [前端架构之路（21） css 的弱化与 js 的强化](https://github.com/senntyou/blogs)
+* [前端架构之路（22） 搭建自己的前端脚手架](https://github.com/senntyou/blogs)
+* [前端架构之路（23） 如何提升前端性能和响应速度](https://github.com/senntyou/blogs)
+* [前端架构之路（24） web 项目如何进行 git 多人协作开发](https://github.com/senntyou/blogs)
 
 * [前后端分离的思考与实践](https://www.kancloud.cn/kancloud/midway)
 * [1-1 前后端分离是如何做的](#前后端分离是如何做的)
