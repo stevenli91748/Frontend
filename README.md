@@ -117,6 +117,38 @@
 |[前端实时可视化开发工具体验](https://www.imooc.com/learn/718)||
 |[浏览器开发者工具使用技巧](https://www.imooc.com/learn/759)||
 
+# 前后端分离篇
+
+* [前端架构之路（1） - 前后端分离、web与static服务器分离](https://www.jianshu.com/p/2f651321fb08)
+* [前端架构之路（2） - 本地化接口模拟、前后端并行开发](https://www.jianshu.com/p/efb29098a685)
+* [前端架构之路（3） - 前端开发规范](https://www.jianshu.com/p/db4d72ad0530)
+* [前端架构之路（4） - 前端开发文档](https://www.jianshu.com/p/c99232d9dda7)
+* [前端架构之路（5） - 构建工具 for teamwork](https://www.jianshu.com/p/491d496917c8)
+* [前端架构之路（6） - 组件化](https://www.jianshu.com/p/7827b4f6b0a9)
+* [前端架构之路（7） - 私有 npm 仓库](https://www.jianshu.com/p/5e6129a20d33)
+* [前端架构之路（8） - 单页面应用（SPA）、按需加载](https://www.jianshu.com/p/6722940919ca)
+* [前端架构之路（9） - 服务器端渲染（SSR）与 node 中间层](https://www.jianshu.com/p/941a7a6eedf7)
+
+
+* [前后端分离的思考与实践](https://www.kancloud.cn/kancloud/midway)
+* [1-1 前后端分离是如何做的](#前后端分离是如何做的)
+* [1-2  软件开发中前端和后端如何协同开发和集成](#软件开发中前端和后端如何协同开发和集成)
+* [包工头都能听明白的前后端分离 ---视频](https://www.bilibili.com/video/BV1f7411L7By)
+* [前后端分离架构，Node 中间层](https://www.crs811.com/archives/1542)
+* [前后端联调](https://www.jianshu.com/p/91486e9c0e34)
+* [快速构建标准RESTful API完成前后端分离开发---视频](https://www.bilibili.com/video/BV12W411b7oT?from=search&seid=2011606573791409942)
+* [4小时学会Spring Boot+Vue前后端分离开发---视频](https://www.bilibili.com/video/BV137411B7vB/?spm_id_from=333.788.videocard.9)
+* [React+springboot权限管理系统·前后端分离](https://www.jianshu.com/p/b34674cd328d)
+* [公司项目里如何进行前后端接口联调系列](https://www.jianshu.com/search?q=%E5%90%8E%E7%AB%AF%E6%8E%A5%E5%8F%A3&page=1&type=note)
+* [Mockjs,再也不用追着后端小伙伴要接口了](https://www.jianshu.com/p/dd23a6547114)
+* [spring boot +themyleaf+vue前后端分离](https://www.zybuluo.com/EggGump/note/1207305)
+* [这次要讲不清前后端分离，我都怎么地！](https://mp.weixin.qq.com/s/Y0z-3r_Mdm-etCwa0GmQmQ)
+* [前后端分离的接口规范，我们是这样做的](https://mp.weixin.qq.com/s/zAOYAcR-6DEJU_s0qXe91g)
+* [前后端分离式开发：高效协作10板斧](https://mp.weixin.qq.com/s/niYHlrCDIkA1NqPVI_VJ8w)
+* [前后端都分离了，该搞个好用的API管理系统了！](https://mp.weixin.qq.com/s/Ahs6fnIfFVVPOn3NZpIsNA)
+* [前后端分离项目，如何优雅实现文件存储！](http://www.macrozheng.com/#/technology/minio_use)
+* [前后端分离项目，引入Spring Cloud Gateway遇到的一个问题](http://www.macrozheng.com/#/technology/gateway_cors)
+
 
 
 
@@ -272,17 +304,6 @@ Sass---主流的 CSS 预处理语言|pug--- HTML 模板的预处理语言|
 
 
 
-# 前端架构之路系列
-
-* [前端架构之路（1） - 前后端分离、web与static服务器分离](https://www.jianshu.com/p/2f651321fb08)
-* [前端架构之路（2） - 本地化接口模拟、前后端并行开发](https://www.jianshu.com/p/efb29098a685)
-* [前端架构之路（3） - 前端开发规范](https://www.jianshu.com/p/db4d72ad0530)
-* [前端架构之路（4） - 前端开发文档](https://www.jianshu.com/p/c99232d9dda7)
-* [前端架构之路（5） - 构建工具 for teamwork](https://www.jianshu.com/p/491d496917c8)
-* [前端架构之路（6） - 组件化](https://www.jianshu.com/p/7827b4f6b0a9)
-* [前端架构之路（7） - 私有 npm 仓库](https://www.jianshu.com/p/5e6129a20d33)
-* [前端架构之路（8） - 单页面应用（SPA）、按需加载](https://www.jianshu.com/p/6722940919ca)
-* [前端架构之路（9） - 服务器端渲染（SSR）与 node 中间层](https://www.jianshu.com/p/941a7a6eedf7)
 
 
 
