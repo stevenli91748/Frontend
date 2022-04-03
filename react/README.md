@@ -8,23 +8,41 @@
 
 # 在线书籍
 
+## Node
+* [Node.js + Webpack开发实战---2020](https://weread.qq.com/web/reader/7fd32de0723278b37fd69c3)
+
 ## React
 * [深入浅出RxJS-- 非常不错的书](https://weread.qq.com/web/reader/cfd321e05e4002cfd1a1ec2)
+* [React 实战---2020](https://weread.qq.com/web/reader/b7e3278071db56f8b7ed9c4)
+* [React进阶之路](https://weread.qq.com/web/reader/81b326407198d71881ba331)
 * [React + Node.js开发实战： 从入门到项目上线](https://weread.qq.com/web/reader/29b322f07224e31b29b76fc)
 * [React.js 16 从入门到实战](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976f)
-* [使用React、Node.js、MongoDB、Socket.IO开发一个角色投票应用](https://www.kancloud.cn/kancloud/create-voting-app)
-* [深入浅出React](https://www.kancloud.cn/kancloud/react-in-depth)
-* [React 入门实例教程](https://www.kancloud.cn/kancloud/react)
-* [React 测试入门教程](https://www.kancloud.cn/digest/react-testing-tutorial)
-* [React入门指南](https://www.kancloud.cn/kancloud/react-quickstart)
-* [我的开发之路系列 - React学习指南](https://www.kancloud.cn/xiaoyulive/react)
+* [React + Redux前端开发实战](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869)
+
+## 看云文档 
+   * [使用React、Node.js、MongoDB、Socket.IO开发一个角色投票应用](https://www.kancloud.cn/kancloud/create-voting-app)
+   * [深入浅出React](https://www.kancloud.cn/kancloud/react-in-depth)
+   * [React 入门实例教程](https://www.kancloud.cn/kancloud/react)
+   * [React 测试入门教程](https://www.kancloud.cn/digest/react-testing-tutorial)
+   * [React入门指南](https://www.kancloud.cn/kancloud/react-quickstart)
+   * [我的开发之路系列 - React学习指南](https://www.kancloud.cn/xiaoyulive/react)
+
+## React Router
+* [深入理解React Router: 从原理到实践](https://weread.qq.com/web/reader/a1b32be0723b0985a1ba93c)
+* [React Router Quick Start Guide](https://weread.qq.com/web/reader/9f232ee0722ffcc89f26416)
+
+## Redux
+* [Redux Quick Start Guide](https://weread.qq.com/web/reader/e7c320d0722ffad2e7c654c)
 
 ## React Native
-* [React Native 开发抖音 APP](https://www.kancloud.cn/fortheday/react-native-douyin)
-* [React-Native入门指南](https://www.kancloud.cn/kancloud/react-native-lession)
-* [React Navtive框架教程---本教程只涉及iOS](https://www.kancloud.cn/digest/reactvavtive)
-* [react-native试玩](https://www.kancloud.cn/digest/doctorqrn)
-* [React Native学习指南](https://www.kancloud.cn/digest/rnative/121783)
+* [React Native移动开发实战（第2版）](https://weread.qq.com/web/reader/32932df071df2dee32933c1)
+
+## 看云文档  
+   * [React Native 开发抖音 APP](https://www.kancloud.cn/fortheday/react-native-douyin)
+   * [React-Native入门指南](https://www.kancloud.cn/kancloud/react-native-lession)
+   * [React Navtive框架教程---本教程只涉及iOS](https://www.kancloud.cn/digest/reactvavtive)
+   * [react-native试玩](https://www.kancloud.cn/digest/doctorqrn)
+   * [React Native学习指南](https://www.kancloud.cn/digest/rnative/121783)
 ---
 
 [React 快速教程](https://www.w3schools.com/react/default.asp)|[ReactJS Tutorial](https://www.javaguides.net/p/reactjs-tutorial.html)|
