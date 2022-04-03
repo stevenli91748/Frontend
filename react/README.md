@@ -12,6 +12,7 @@
 * [Node.js + Webpack开发实战---2020](https://weread.qq.com/web/reader/7fd32de0723278b37fd69c3)
 
 ## React
+* [React工程师修炼指南---2020](https://weread.qq.com/web/reader/f0232240723982d3f02c0fd)
 * [深入浅出RxJS-- 非常不错的书](https://weread.qq.com/web/reader/cfd321e05e4002cfd1a1ec2)
 * [React 实战---2020](https://weread.qq.com/web/reader/b7e3278071db56f8b7ed9c4)
 * [React进阶之路](https://weread.qq.com/web/reader/81b326407198d71881ba331)
