@@ -42,7 +42,8 @@
 
 
 # 工具
-* [React在线编程工具](http://jsfiddle.net/reactjs/69z2wepo/)
+* [React在线编程工具 React JSFiddle](http://jsfiddle.net/reactjs/69z2wepo/)
+* [React在线编程工具 React JSFiddle without JSX ](http://jsfiddle.net/reactjs/5vjqabv3/)
 
 
 # React目录
