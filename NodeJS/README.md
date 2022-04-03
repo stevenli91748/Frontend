@@ -11,7 +11,7 @@
 * [Node.js + Webpack开发实战](https://weread.qq.com/web/reader/7fd32de0723278b37fd69c3)
 * [Koa 与 Node.js 开发实战](https://weread.qq.com/web/reader/b68323207184869ab687b03)
 * [Node.js + Express + Vue.js 项目开发实战](https://weread.qq.com/web/reader/6af326a071de88a96aff6ad)
-
+* [Node.js + Webpack开发实战---2020](https://weread.qq.com/web/reader/7fd32de0723278b37fd69c3)
 ---
 
 # 博客
