@@ -1,6 +1,6 @@
 
 
-<a href="https://ibb.co/MpJbbsT"><img src="https://i.ibb.co/wC2TTRH/react-roadmap.png" alt="react-roadmap" border="0"></a>
+<a href="https://ibb.co/BgqkKqV"><img src="https://i.ibb.co/7G2hN2J/React-Js-Roadmap-for-Beginners-By-Java-Guides.png" alt="React-Js-Roadmap-for-Beginners-By-Java-Guides" border="0"></a>
 
 # learn path
 <a href="https://ibb.co/jDhSbGH"><img src="https://i.ibb.co/3c1n4Wk/react.png" alt="react" border="0"></a>
