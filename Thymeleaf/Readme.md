@@ -21,3 +21,4 @@
 # 有用的参考
 
 * [讲明白thymeleaf和前后端开发框架的不同](https://blog.csdn.net/weixin_39999859/article/details/111731341)
+* [Thymeleaf一篇就够了](https://developer.aliyun.com/article/769977)
