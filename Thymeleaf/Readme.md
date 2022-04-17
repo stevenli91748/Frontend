@@ -5,6 +5,11 @@
 
 * [ Spring boot 2 + Thymeleaf企业应用实战](https://weread.qq.com/web/reader/855325a07184876485505ad)
 
+
+[Thymeleaf一篇就够了](https://developer.aliyun.com/article/769977)|
+ ---|
+
+
 # 目录
 
 * [Thymeleaf教程（10分钟入门）](http://c.biancheng.net/spring_boot/thymeleaf.html)
