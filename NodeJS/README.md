@@ -19,6 +19,9 @@
 [Nodejs 快速教程](https://www.yht7.com/nodejs/nodejs-tutorial.html)|[Node.js 包教不包会](https://www.kancloud.cn/kancloud/node-lessons)|
 ---|---|
 
+[Node.js命令行程序开发完整教程](https://www.kancloud.cn/outsider/clitool)|
+---|
+
 [nodejs项目实战](https://www.kancloud.cn/winter1981/weixinshake/595810)|[Nodejs全端开发指南](https://www.kancloud.cn/zengqs1976/thinkjs-uniapp-framework/1834675)|[Node.js命令行程序开发完整教程](https://www.kancloud.cn/outsider/clitool/313173)|[深入浅出Nodejs读书笔记](https://www.kancloud.cn/thinkphp/nodejs-note/43575)|[NodeJS错误处理最佳实践](https://www.kancloud.cn/thinkphp/nodejs-errorhandling/39145)|
 ---|---|---|---|---|
 
