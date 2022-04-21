@@ -6,7 +6,7 @@
 # 在线书籍
 
 * [你不知道的javascript (好)](https://weread.qq.com/web/reader/8c632230715c01a18c683d8)
-
+* [JavaScript高级程序设计（第4版）](https://weread.qq.com/web/reader/751326d0720befab7514782)
 # 英文的项目实战
 
 * [Free JavaScript Projects 系列](https://www.sourcecodeexamples.net/p/free-javascript-projects.html)
