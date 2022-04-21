@@ -8,8 +8,8 @@
 * [你不知道的javascript (上) 好书](https://weread.qq.com/web/reader/8c632230715c01a18c683d8)
 * [你不知道的javascript (中) 好书](https://weread.qq.com/web/reader/f5d32510715c0190f5ddc42)
 * [你不知道的javascript (下) 好书](https://weread.qq.com/web/reader/c1232d00715c016fc1234b3)
-* [JavaScript高级程序设计（第4版）红宝书](https://weread.qq.com/web/reader/751326d0720befab7514782)
-* [JavaScript DOM编程艺术（第2版）](https://weread.qq.com/web/reader/7a8324c071a123567a89289)
+* [JavaScript高级程序设计（第4版）红宝书---一本难得的好书，讲的都是很详细的基础内容](https://weread.qq.com/web/reader/751326d0720befab7514782)
+* [JavaScript DOM编程艺术（第2版）---一个案例，让你从头到尾实现出来](https://weread.qq.com/web/reader/7a8324c071a123567a89289)
 # 英文的项目实战
 
 * [Free JavaScript Projects 系列](https://www.sourcecodeexamples.net/p/free-javascript-projects.html)
