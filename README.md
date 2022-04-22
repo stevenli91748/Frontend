@@ -83,6 +83,7 @@
 | 1-1 HTML5---定义网页骨架 | [无代码] |
 | 1-2 CSS3---装网页 | [无代码] |
 | 1-3 JAVASCRIPT---网页交互动作| [无代码] |
+|[WEB API教程](https://github.com/stevenli91748/Frontend/tree/master/Web%20Api)||
 | [WEB API(DOM)---js可用WEB API控制 HTML5 和 CSS3](https://www.bilibili.com/video/BV1NJ411x7sQ/?p=2)| [无代码] |
 | [初识HTML(5)+CSS(3)-2020升级版](https://www.imooc.com/learn/9)||
 | [SSI服务端包含技术---把不同的小页面合成一个大页面](https://www.cnblogs.com/ITGirl00/archive/2013/02/23/SSI.html)||
