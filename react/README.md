@@ -15,7 +15,7 @@
 * [Node.js + Webpack开发实战---2020](https://weread.qq.com/web/reader/7fd32de0723278b37fd69c3)
 
 ## React
-* [使用ReactJS构建单页面应用程序](https://fullstackopen.com/zh/about/)
+* [使用ReactJS构建全栈单页面应用程序](https://fullstackopen.com/zh/about/)
 * [尚硅谷最新的 React 课程](https://www.youtube.com/playlist?list=PLmOn9nNkQxJFJXLvkNsGsoCUxJLqyLGxu)
 * [React工程师修炼指南---2020](https://weread.qq.com/web/reader/f0232240723982d3f02c0fd)
 * [深入浅出RxJS-- 非常不错的书](https://weread.qq.com/web/reader/cfd321e05e4002cfd1a1ec2)
