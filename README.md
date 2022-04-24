@@ -11,6 +11,7 @@
 * [TypeScript入门与实战](https://weread.qq.com/web/reader/a2c321c0721cac5ea2c585f)
 
 
+# 博客
 
 [ 前端工程师晋级之路 2020版前端技术白皮书](https://www.youtube.com/watch?v=0QLHEOVnYtY)|[大前端面试宝典 - 图解前端](https://github.com/azl397985856/fe-interview/blob/master/docs/README.md)|
 ---|---|
@@ -79,7 +80,7 @@
 
 | **第一部份 传统的前端 MPA(多页面) 架构** | [无代码] | 
 | :--- | :---: | 
-| 第一章  页面之前端基础||
+| [第一章  Web 开发技术基础](https://developer.mozilla.org/zh-CN/docs/Web)||
 | 1-1 HTML5---定义网页骨架 | [无代码] |
 | 1-2 CSS3---装网页 | [无代码] |
 | 1-3 JAVASCRIPT---网页交互动作| [无代码] |
