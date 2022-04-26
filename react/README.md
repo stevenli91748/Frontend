@@ -96,6 +96,7 @@
      * [How to Add Jquery to React App](https://www.javaguides.net/2020/07/how-to-add-bootstrap-to-react-app.html)
      * [How to Add CSS to React App](https://www.javaguides.net/2020/09/reactjs-tutorial-for-beginners-13-styling-and-css-basics.html)
      * [How to Configure Routing in React App](https://www.javaguides.net/2020/09/reactjs-tutorial-for-beginners-14-routing.html)
+     * [How to Configure Axios Library](https://www.javaguides.net/2020/08/reactjs-axios-get-post-put-and-delete-example-tutorial.html)
   * [React JSX---JSX是React框架内置的语法，且专用于React应用开发，因此建议设计人员使用JSX方式来实现UI中的虚拟DOM,直译过来就是基于JavaScript的XML，若要在React项目中使用JSX语法，则必须引用“babel.js”来解析JSX，且在<script>标签中必须改用“type="text/babel"”属性](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fkaab325601eaab3238922e53)
   * [React脚手架工具](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk45c322601945c48cce2e120)
     * [Create React App ](https://create-react-app.dev/)
