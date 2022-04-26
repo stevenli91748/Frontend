@@ -11,8 +11,14 @@
 
 # 在线书籍
 
+## Web technology for developers
+* [Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
+
 ## Node
 * [Node.js + Webpack开发实战---2020](https://weread.qq.com/web/reader/7fd32de0723278b37fd69c3)
+
+## Promise
+* [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 ## React
 * [使用ReactJS构建全栈单页面应用程序](https://fullstackopen.com/zh/about/)
