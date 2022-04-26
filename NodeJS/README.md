@@ -39,6 +39,8 @@
 # 目录
 
 * 基础
+  * Node 安装和测试 
+    * [How do I start with Node.js after I installed it?](https://nodejs.org/en/docs/guides/getting-started-guide/) 
   * [ Node.js和npm基础](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck98f3284021498f137082c2e) 
   * [TypeScript基础知识](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck33e3289021c33e75ff09694)
   * [快速开启Angular项目](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka1d32a6022aa1d0c6e83eb4)
