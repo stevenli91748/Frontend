@@ -82,8 +82,8 @@
 [Meteor React Tutorial](https://react-tutorial.meteor.com/simple-todos/)|[An enterprise-class UI design language and React UI library 蚂蚁集团](https://github.com/ant-design/ant-design)|
 ---|---|
 
-[非常好的React教程---english](https://pomb.us/build-your-own-react/)|[React 测试入门教程](https://www.kancloud.cn/digest/react-testing-tutorial/217588)|[Element For React](https://github.com/elemefe/element-react)|
----|---|---|
+[非常好的React教程---english](https://pomb.us/build-your-own-react/)|[非常好的React教程---中文版](https://qcsite.gatsbyjs.io/build-your-own-react/)|[React 测试入门教程](https://www.kancloud.cn/digest/react-testing-tutorial/217588)|[Element For React](https://github.com/elemefe/element-react)|
+---|---|---|---|
 
 
 # 工具
