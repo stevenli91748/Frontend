@@ -86,7 +86,7 @@
 
 # React Native 教程
 
-[Build Uber Eats with React Native & YELP API | Redux | Firebase | Google API项目实战教程](https://www.youtube.com/watch?v=jmvbhuJXFow)|
+[Build Uber Eats with React Native & YELP API  Redux  Firebase  Google API项目实战教程](https://www.youtube.com/watch?v=jmvbhuJXFow)|
 ---|
 
 
