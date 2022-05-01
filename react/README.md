@@ -22,6 +22,7 @@
 
 ## axios
 * [axios](https://github.com/axios/axios)
+* [Axios Getting Started](https://axios-http.com/docs/intro)
 
 ## Promise
 * [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
@@ -66,11 +67,6 @@
 
 ---
 
-## Axios 
-* [Axios Getting Started](https://axios-http.com/docs/intro)
-
----
-
 
 # React 教程
 
@@ -88,8 +84,9 @@
 
 # React Native 教程
 
-[React Native 官网](https://reactnative.dev/docs/environment-setup)|
----|
+* [React Native 官网](https://reactnative.dev/docs/environment-setup)
+* [不想用Android Studio，教你如何用vscode搭建原生app开发环境](https://www.jianshu.com/p/378930364493)
+
 
 ## React Native视频
 * [React Native Environment Setup for MacOS](https://www.youtube.com/watch?v=oorfevovPWw)
