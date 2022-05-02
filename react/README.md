@@ -10,6 +10,8 @@
 
 # 在线Andriod or Iphone模拟器
 * [Snack模拟器](https://snack.expo.dev/)
+  * id : usapengli
+  * psw: usa19731108 
 
 # 在线书籍
 
