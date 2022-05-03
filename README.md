@@ -7,6 +7,7 @@
 ---
 
 # 在线书籍
+* [前端技术架构与工程](https://weread.qq.com/web/reader/14d32a407274b49c14d597dkc81322c012c81e728d9d180)
 * [前端架构：从入门到微前端](https://weread.qq.com/web/reader/b9e32d007192169bb9e012d)
 * [TypeScript入门与实战](https://weread.qq.com/web/reader/a2c321c0721cac5ea2c585f)
 
