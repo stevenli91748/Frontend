@@ -2,7 +2,7 @@
 
 * [深入浅出Vue.js---基于Vue2.0 的一本好书](https://weread.qq.com/web/reader/f8632810723f0231f86d9aakc81322c012c81e728d9d180)
 * [Vue.js + Node.js开发实战： 从入门到项目上线](https://weread.qq.com/web/reader/c7432440721c7eb2c74881f)
-
+* [Vue.js从入门到项目实战](https://weread.qq.com/web/reader/3b0328907199a6653b0dd86)
 
 [精尽 Vue 学习指南](http://svip.iocoder.cn/Vue/tutorials/)|[Vue从入门到实战](https://www.kancloud.cn/dataoedu/vue/347790)|[Vue3 快速教程](https://www.yht7.com/vue2/vue-tutorial.html)|[Many Free Open Source Projects Using Vue JS ](https://www.sourcecodeexamples.net/2020/11/free-open-source-projects-using-vue-js.html)|
 ---|---|---|---|
