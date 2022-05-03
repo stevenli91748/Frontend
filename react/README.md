@@ -38,7 +38,7 @@
 * [React进阶之路](https://weread.qq.com/web/reader/81b326407198d71881ba331)
 * [React + Node.js开发实战： 从入门到项目上线](https://weread.qq.com/web/reader/29b322f07224e31b29b76fc)
 * [React.js 16 从入门到实战](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976f)
-* [React + Redux前端开发实战](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869)
+
 * [React技术揭秘---2020](https://react.iamkasong.com/hooks/prepare.html#%E4%BB%8Elogo%E8%81%8A%E8%B5%B7)
 ## React看云文档 
    * [使用React、Node.js、MongoDB、Socket.IO开发一个角色投票应用](https://www.kancloud.cn/kancloud/create-voting-app)
@@ -54,7 +54,8 @@
 
 ## Redux
 * [Redux Quick Start Guide](https://weread.qq.com/web/reader/e7c320d0722ffad2e7c654c)
-
+* [深入浅出React和Redux](https://weread.qq.com/web/reader/a0b327005d185ca0b5a7803)
+* [React + Redux前端开发实战](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869)
 ---
 
 ## React Native
