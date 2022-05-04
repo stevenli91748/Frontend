@@ -192,3 +192,5 @@
 * [使用React官方Hooks代替redux完整方案](https://zhuanlan.zhihu.com/p/417283750)
 * [为什么 npm install 的时候会显示严重漏洞](https://juejin.cn/post/6844903983266398221)
 * [npm 指令一直出現 npm fund 贊助訊息？](https://ephrain.net/mac-linux-npm-%E6%8C%87%E4%BB%A4%E4%B8%80%E7%9B%B4%E5%87%BA%E7%8F%BE-npm-fund-%E8%B4%8A%E5%8A%A9%E8%A8%8A%E6%81%AF%EF%BC%9F/)
+* [react-native生命周期详解](https://juejin.cn/post/6976914806028632094)
+* [React Native 性能优化指南【全网最全，值得收藏】](https://juejin.cn/post/6844904041290432525)
