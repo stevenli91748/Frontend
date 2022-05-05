@@ -144,6 +144,10 @@
         * render()返回元素数组
         * render()返回字符串
     * [组件之间的通信](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k1f032c402131f0e3dad99f3)
+      * 父组件向子组件通信
+      * 子组件向父组件通信
+      * 跨级组件通信
+      * 非嵌套组件通信
   * [React事件处理](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fkd9d320f022ed9d4f495e456)
   * [React Router](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fkf09320f026af0935e4cd23d)
   * [Redux]()
