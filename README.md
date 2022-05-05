@@ -11,7 +11,8 @@
 * [前端架构：从入门到微前端](https://weread.qq.com/web/reader/b9e32d007192169bb9e012d)
 * [TypeScript入门与实战](https://weread.qq.com/web/reader/a2c321c0721cac5ea2c585f)
 
-
+# HTML CSS JAVASCRIPT视频
+* [HTML CSS Javascript Website Tutorial - Responsive Beginner JS Project with Smooth Scroll](https://www.youtube.com/watch?v=3-2Pj5hxwrw)
 
 # 博客
 
