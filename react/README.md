@@ -136,7 +136,7 @@
       * [1. Props---React组件通过Props可以接收任意的输入值，专门用来实现React函数组件接受参数的输入](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk341323f021e34173cb3824c)
       * [2. React State与生命周期](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk1c3321802231c383cd30bb3)
         * state---React框架之所以定义这个状态（State）概念，其目的就是仅仅通过更新React组件的状态（State），就可以实现重新渲染用户界面的操作（这样就不需要操作DOM了）。这点也正是React设计理念相较于其他前端框架的先进之处，相比于props, state只存在于组件自身内部，用来影响视图的展示。可以使用React内置的setState()方法修改state，每当使用setState()时，React会将需要更新的state合并后放入状态队列，触发调和过程（Reconciliation），而不是立即更新state，然后根据新的状态结构重新渲染UI界面，最后React会根据差异对界面进行最小化重新渲染
-          * 生命周期可基本分成三个状态
+          * [生命周期可基本分成三个状态](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k98f3284021498f137082c2e)
             * Mounting：已开始挂载真实的组件DOM
             * Updating：正在重新渲染组件DOM
             * Unmounting：已卸载真实的组件DOM。 
