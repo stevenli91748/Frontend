@@ -158,6 +158,13 @@
               * componentWillUnmount() 
           * 错误处理---在渲染期间，生命周期方法或构造函数constructor()中发生错误时将会调用componentDidCatch()方法
             * componentDidCatch()
+          * 老版React中的生命周期---废弃这些方法
+            * componentWillMount()
+            * componentWillReceiveProps()
+            * componentWillUpdate()
+          * 新版React中的两个新的生命周期
+            * getDerivedStateFromProps()
+            * getSnapshotBeforeUpdate()
       * [3. render()方法---其返回一个JSX元素，并且外层一定要使用一个单独的元素将所有内容包裹起来](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k6f4322302126f4922f45dec)
         * render()返回元素数组
         * render()返回字符串
