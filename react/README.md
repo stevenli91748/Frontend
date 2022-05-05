@@ -137,9 +137,27 @@
       * [2. React State与生命周期](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk1c3321802231c383cd30bb3)
         * state---React框架之所以定义这个状态（State）概念，其目的就是仅仅通过更新React组件的状态（State），就可以实现重新渲染用户界面的操作（这样就不需要操作DOM了）。这点也正是React设计理念相较于其他前端框架的先进之处，相比于props, state只存在于组件自身内部，用来影响视图的展示。可以使用React内置的setState()方法修改state，每当使用setState()时，React会将需要更新的state合并后放入状态队列，触发调和过程（Reconciliation），而不是立即更新state，然后根据新的状态结构重新渲染UI界面，最后React会根据差异对界面进行最小化重新渲染
           * [生命周期可基本分成三个状态](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k98f3284021498f137082c2e)
-            * Mounting：已开始挂载真实的组件DOM
-            * Updating：正在重新渲染组件DOM
-            * Unmounting：已卸载真实的组件DOM。 
+            * Mounting：已开始挂载真实的组件DOM, 一个组件的挂载会经历下面几个过程：
+              * constructor()
+              * getDerivedStateFromProps()
+              * render()
+              * componentDidMount()
+            * Updating：正在重新渲染组件DOM, 数据更新可以分为下面两种情况
+              * 组件自身state更新,会经历下面几个过程
+                * shouldComponentUpdate()
+                * render()
+                * getSnapshotBeforeUpdate()
+                * componentDidUpdate()
+              * 父组件props更新,会经历下面几个过程
+                * static getDerivedStateFromProps()
+                * shouldComponentUpdate()
+                * render()
+                * getSnapshotBeforeUpdate()
+                * componentDidUpdate()
+            * Unmounting：已卸载真实的组件DOM
+              * componentWillUnmount() 
+          * 错误处理---在渲染期间，生命周期方法或构造函数constructor()中发生错误时将会调用componentDidCatch()方法
+            * componentDidCatch()
       * [3. render()方法---其返回一个JSX元素，并且外层一定要使用一个单独的元素将所有内容包裹起来](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k6f4322302126f4922f45dec)
         * render()返回元素数组
         * render()返回字符串
