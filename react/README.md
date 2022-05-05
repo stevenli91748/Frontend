@@ -122,26 +122,31 @@
     * [CodeSandbox ](https://codesandbox.io/s/)
     * [Rekit ](https://rekit.js.org/)
   * [React组件---尽管React组件与JSX代码实现的功能基本一致，但从设计角度上讲还是推荐使用React组件方式。原因是：将React组件与Props结合使用可以实现更灵活的功能，注意一点，React组件的名称首字母必须是大写的](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk8e232ec02198e296a067180)
-    * React组件原理---React组件从形式上看很像是JavaScript函数，通过这个函数返回一个需要在页面上展示的React元素，在函数内部定义好页面需要的元素组合，通过return语句返回函数值就可以了
+    * React组件原理---如果把组件视为一个函数，那么props就是从外部传入的参数，而state可以视为函数内部的参数，最后函数返回虚拟DOM
       * React组件实现的方法
         * 方法一：通过JavaScript函数的形式来实现React组件 
+          * [React函数组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk02e32f0021b02e74f10ece8) 
         * 方法二：通过ES6 Class（类）的形式来实现React组件
+          * [React类组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk33e3289021c33e75ff09694)
       * [受控组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk68d3221025468d30a95982e)
       * [非受控组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk68d3221025468d30a95982e)
-      * [React函数组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk02e32f0021b02e74f10ece8)
-      * [React类组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk33e3289021c33e75ff09694)
       * [React组合组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk6ea321b021d6ea9ab1ba605)
       * [React组件切分与提取](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fke3632bd0222e369853df322)
-    * [Props---React组件通过Props可以接收任意的输入值，专门用来实现React函数组件接受参数的输入](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk341323f021e34173cb3824c)
-    * [React State与生命周期](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk1c3321802231c383cd30bb3)
-      * state---React框架之所以定义这个状态（State）概念，其目的就是仅仅通过更新React组件的状态（State），就可以实现重新渲染用户界面的操作（这样就不需要操作DOM了）。这点也正是React设计理念相较于其他前端框架的先进之处
-        * 生命周期可基本分成三个状态
-          * Mounting：已开始挂载真实的组件DOM
-          * Updating：正在重新渲染组件DOM
-          * Unmounting：已卸载真实的组件DOM。 
-    * [React事件处理](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fkd9d320f022ed9d4f495e456)
-    * [React Router](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fkf09320f026af0935e4cd23d)
-    * [Redux]()
+    * React组件主要成员
+      * [1. Props---React组件通过Props可以接收任意的输入值，专门用来实现React函数组件接受参数的输入](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk341323f021e34173cb3824c)
+      * [2. React State与生命周期](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk1c3321802231c383cd30bb3)
+        * state---React框架之所以定义这个状态（State）概念，其目的就是仅仅通过更新React组件的状态（State），就可以实现重新渲染用户界面的操作（这样就不需要操作DOM了）。这点也正是React设计理念相较于其他前端框架的先进之处，相比于props, state只存在于组件自身内部，用来影响视图的展示。可以使用React内置的setState()方法修改state，每当使用setState()时，React会将需要更新的state合并后放入状态队列，触发调和过程（Reconciliation），而不是立即更新state，然后根据新的状态结构重新渲染UI界面，最后React会根据差异对界面进行最小化重新渲染
+          * 生命周期可基本分成三个状态
+            * Mounting：已开始挂载真实的组件DOM
+            * Updating：正在重新渲染组件DOM
+            * Unmounting：已卸载真实的组件DOM。 
+      * [3. render()方法---其返回一个JSX元素，并且外层一定要使用一个单独的元素将所有内容包裹起来](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k6f4322302126f4922f45dec)
+        * render()返回元素数组
+        * render()返回字符串
+    * [组件之间的通信](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k1f032c402131f0e3dad99f3)
+  * [React事件处理](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fkd9d320f022ed9d4f495e456)
+  * [React Router](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fkf09320f026af0935e4cd23d)
+  * [Redux]()
 
 
 
