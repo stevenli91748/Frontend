@@ -129,7 +129,9 @@
         * 方法二：通过ES6 Class（类）的形式来实现React组件
           * [React类组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk33e3289021c33e75ff09694)
       * [受控组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk68d3221025468d30a95982e)
-        * [受控组件解析](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k1ff325f02181ff1de7742fc) 
+        * [受控组件解析---](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k1ff325f02181ff1de7742fc) 
+          * 受控组件的优点: 受控组件的优点是在用户输入和页面显示之间做了一道可控层，可以在用户输入之后和页面显示之前对输入值进行处理
+          * 受控组件的缺点：是需要为每个表单组件都绑定一个change事件，并且定义一个事件处理器去绑定表单值和组件的状态，而且每次表单值的改变都必定会调用一次onChange事件，带来了一些性能上的损耗
       * [非受控组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk68d3221025468d30a95982e)
         * [非受控组件解析](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869)
       * [React组合组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk6ea321b021d6ea9ab1ba605)
@@ -185,6 +187,7 @@
     * [在React中使用浏览器原生事件](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869)
     * [合成事件与原生事件混用](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869)
   * [React表单（Forms）](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k1ff325f02181ff1de7742fc)
+  * [React的样式处理](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k8e232ec02198e296a067180)
   * [React Router](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fkf09320f026af0935e4cd23d)
   * [Redux]()
 
