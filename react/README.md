@@ -206,11 +206,20 @@
         * [Store的创建](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k33e3289021c33e75ff09694)
           * createStore()---Store是通过Redux提供的createStore()方法来创建的,createStore()函数返回Store，里面保存了所有state对象
   * Redux搭配React使用---Redux是不依赖于React而存在的，它本身能支持React、Angular、Ember和jQuery等。要让其在React上运行，就得让二者绑定起来去建立连接。于是就有了react-redux，它能将Redux绑定到React上
-    * [react-redux react-redux提供了两个重要对象：Provider和connect](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k33e3289021c33e75ff09694)
+    * [react-redux机制： react-redux提供了两个重要对象：Provider和connect](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k33e3289021c33e75ff09694)
       * Provider---使用react-redux时需要先在最顶层创建一个Provider组件，用于将所有的React组件包裹起来，从而使React的所有组件都成为Provider的子组件。然后将创建好的Store作为Provider的属性传递给Provider
-      * connect---connect的主要作用是连接React组件与Redux Store。当前组件可以通过props获取应用中的state和Actions
-
-# React 项目实战
+      * connect---connect的主要作用是连接React组件与Redux Store。当前组件可以通过props获取应用中的state和Actions，属于高阶组件，它允许向一个现有组件添加新功能，同时不改变其结构，属于装饰器模式（Decorator Pattern），connect接收4个参数
+        * mapStateToProps()
+        * mapDispatchToProps()
+        * mergeProps()
+        * options
+  * [middleware中间件](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k6ea321b021d6ea9ab1ba605)
+    * 
+ 
+ 
+ 
+ 
+ # React 项目实战
 
 * [【项目实战】使用React、Node.js、MongoDB、Socket.IO开发一个角色投票应用---学习到如何使用Node.js构建一个REST API、使用MongoDB保存和检索数据、使用Socket.IO跟踪在线的访问者，以及使用React + Flux和服务端渲染来构建单页面应用，最后将应用部署到云端](https://www.kancloud.cn/kancloud/create-voting-app/63976)
 * [【项目实战】React Native 开发抖音 APP](https://www.kancloud.cn/fortheday/react-native-douyin/1673388)
