@@ -139,6 +139,7 @@
     * React组件主要成员
       * [1. Props---React组件通过Props可以接收任意的输入值，专门用来实现React函数组件接受参数的输入](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk341323f021e34173cb3824c)
       * [2. React State与生命周期](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk1c3321802231c383cd30bb3)
+        * 状态定义（State）---来自服务端返回的数据、本地缓存的数据、本地生成没有持久化到服务器的数据、数据加载时候的加载状态等
         * state---React框架之所以定义这个状态（State）概念，其目的就是仅仅通过更新React组件的状态（State），就可以实现重新渲染用户界面的操作（这样就不需要操作DOM了）。这点也正是React设计理念相较于其他前端框架的先进之处，相比于props, state只存在于组件自身内部，用来影响视图的展示。可以使用React内置的setState()方法修改state，每当使用setState()时，React会将需要更新的state合并后放入状态队列，触发调和过程（Reconciliation），而不是立即更新state，然后根据新的状态结构重新渲染UI界面，最后React会根据差异对界面进行最小化重新渲染
           * [生命周期可基本分成三个状态](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k98f3284021498f137082c2e)
             * Mounting：已开始挂载真实的组件DOM, 一个组件的挂载会经历下面几个过程：
@@ -190,7 +191,14 @@
   * [React的样式处理](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k8e232ec02198e296a067180)
   * [React Router](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fkf09320f026af0935e4cd23d)
   * [Redux](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k33e3289021c33e75ff09694)
-
+    * Redux三大特性
+      * 单一数据源
+      * state是只读的
+      * 使用纯函数执行修改
+    * Redux由3部分组成
+      * Action
+      * Reducer
+      * Store
 
 
 
