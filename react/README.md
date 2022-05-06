@@ -129,6 +129,7 @@
         * 方法二：通过ES6 Class（类）的形式来实现React组件
           * [React类组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk33e3289021c33e75ff09694)
       * [受控组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk68d3221025468d30a95982e)
+        * [受控组件解析](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k1ff325f02181ff1de7742fc) 
       * [非受控组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk68d3221025468d30a95982e)
       * [React组合组件](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fk6ea321b021d6ea9ab1ba605)
       * [React组件切分与提取](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fke3632bd0222e369853df322)
@@ -174,6 +175,15 @@
       * 跨级组件通信
       * 非嵌套组件通信
   * [React事件处理](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fkd9d320f022ed9d4f495e456)
+    * 事件代理
+    * [事件的自动绑定](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869)
+      * 在构造函数中使用bind()绑定this
+      * 使用箭头函数绑定this 
+      * 使用bind()方法绑定this
+      * 使用属性初始化器语法绑定this
+    * [在React中使用浏览器原生事件](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869)
+    * [合成事件与原生事件混用](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869)
+  * [React表单（Forms）](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k1ff325f02181ff1de7742fc)
   * [React Router](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fkf09320f026af0935e4cd23d)
   * [Redux]()
 
