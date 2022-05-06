@@ -189,7 +189,7 @@
   * [React表单（Forms）](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k1ff325f02181ff1de7742fc)
   * [React的样式处理](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k8e232ec02198e296a067180)
   * [React Router](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fkf09320f026af0935e4cd23d)
-  * [Redux]()
+  * [Redux](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k33e3289021c33e75ff09694)
 
 
 
