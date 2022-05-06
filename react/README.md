@@ -191,16 +191,24 @@
   * [React的样式处理](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k8e232ec02198e296a067180)
   * [React Router](https://weread.qq.com/web/reader/96d32e5071c96a2f96d976fkf09320f026af0935e4cd23d)
   * [Redux](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k33e3289021c33e75ff09694)
-    * Redux三大特性
+    * Redux三大特性---Redux的设计思想是将应用看作是一个状态机，视图与状态是一一对应的；所有状态都存放在Store这个对象内。用户通过触发Vew层的Action去改变Store中的状态，而Vew层的状态来源于Store，一个state对应一个Vew，也就是“状态驱动视图变化
       * 单一数据源
       * state是只读的
       * 使用纯函数执行修改
     * Redux由3部分组成
-      * Action
-      * Reducer
-      * Store
-
-
+      * Action---Action用来表达动作，是一个用于描述发生了什么的事情JavaScript对象，它也是信息的载体。Action是一个能够把state从应用传到Store的载体，非常重要的一点，Action是Store中数据的唯一来源
+      * Reducer---而Reducer的职责就是定义整个应用的状态如何更改。Reducer主要作用是根据Action执行去更新Store中的状态
+      * Store---Redux中全局只有一个Store，用于存储整个应用的状态，它有以下4个API
+        * getState()方法用于获取state；
+        * dispatch(action)方法用于执行一个Action
+        * subscribe(listener)用于注册回调，监听state变化
+        * replaceReducer(nextReducer)更新当前Store内的Reducer（一般只会在开发模式中使用）
+        * [Store的创建](https://weread.qq.com/web/reader/20b328a0718ac6b320b2869k33e3289021c33e75ff09694)
+          * createStore()---Store是通过Redux提供的createStore()方法来创建的,createStore()函数返回Store，里面保存了所有state对象
+  * Redux搭配React使用---Redux是不依赖于React而存在的，它本身能支持React、Angular、Ember和jQuery等。要让其在React上运行，就得让二者绑定起来去建立连接。于是就有了react-redux，它能将Redux绑定到React上
+    * react-redux react-redux提供了两个重要对象：Provider和connect
+      * Provider
+      * connect
 
 # React 项目实战
 
