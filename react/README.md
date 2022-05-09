@@ -28,7 +28,7 @@
 
 ## Promise
 * [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-
+* [Promise基本概念](https://xia-ao.gitbook.io/notes/yu-yan/js/promise)
 
 ## React
 * [使用ReactJS构建全栈单页面应用程序](https://fullstackopen.com/zh/about/)
