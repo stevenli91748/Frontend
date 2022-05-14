@@ -77,17 +77,6 @@
 [非常好的React教程---english](https://pomb.us/build-your-own-react/)|[非常好的React教程---中文版](https://qcsite.gatsbyjs.io/build-your-own-react/)|[React 测试入门教程](https://www.kancloud.cn/digest/react-testing-tutorial/217588)|[Element For React](https://github.com/elemefe/element-react)|
 ---|---|---|---|
 
-# React Native 教程
-
-* [React Native 官网](https://reactnative.dev/docs/environment-setup)
-* [不想用Android Studio，教你如何用vscode搭建原生app开发环境](https://www.jianshu.com/p/378930364493)
-
-
-## React Native视频
-* [React Native Environment Setup for MacOS](https://www.youtube.com/watch?v=oorfevovPWw)
-* [Build Uber Eats with React Native & YELP API  Redux  Firebase  Google API项目实战教程](https://www.youtube.com/watch?v=jmvbhuJXFow)
-* [Build Uber Eats with React Native & YELP API | Redux | Firebase | Google API](https://www.youtube.com/watch?v=jmvbhuJXFow)
-
 
 
 # 工具
