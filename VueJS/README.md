@@ -64,4 +64,4 @@ Vuex教程：https://vuex.vuejs.org/zh/guide/
 
 Element教程: http://element-cn.eleme.io/#/zh-CN
 
-
+* [如何在5天内学会Vue？聊聊我的学习方法！](https://mp.weixin.qq.com/s/R--Qh4Lp5nhhO0eNWNDmIw)
