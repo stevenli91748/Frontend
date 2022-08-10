@@ -19,8 +19,8 @@
 [Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)|[Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)|
 ---|---|
 
-[Chrome DevTools 教程](https://developer.chrome.com/docs/devtools/)|
----|
+[Chrome DevTools 教程](https://developer.chrome.com/docs/devtools/)|[查前端文档地址，看这篇，就够了](https://www.yuque.com/webfront/js/mwbnti)|
+---|---|
 
 
 [ 前端工程师晋级之路 2020版前端技术白皮书](https://www.youtube.com/watch?v=0QLHEOVnYtY)|[大前端面试宝典 - 图解前端](https://github.com/azl397985856/fe-interview/blob/master/docs/README.md)|
