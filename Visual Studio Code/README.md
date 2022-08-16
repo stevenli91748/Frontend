@@ -37,6 +37,7 @@
 
 # 视频
 * setup develope enviroment
+  * [VSCode快速开始Spring Boot开发](https://www.youtube.com/watch?v=gxbdoiwFfbM) 
   * [How to Set Up Java Development in Visual Studio Code on Windows ](https://www.youtube.com/watch?v=ClU9N4ub_Ko)
   * [Get started with Visual Studio Code](https://www.youtube.com/watch?v=S320N3sxinE&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6)
   * [Visual Studio Code 2022  Web Dev Setup  Top Extensions, Themes, Settings, Tips & Tricks](https://www.youtube.com/watch?v=fJEbVCrEMSE)
