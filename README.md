@@ -12,6 +12,7 @@
 * [TypeScript入门与实战](https://weread.qq.com/web/reader/a2c321c0721cac5ea2c585f)
 
 # HTML CSS JAVASCRIPT视频
+* [金职位 大前端进阶【完结】609 个视频](https://www.youtube.com/playlist?list=PL-fouz1yopdpm6pFW1IMEYah6_tntmSQh)
 * [HTML CSS Javascript Website Tutorial - Responsive Beginner JS Project with Smooth Scroll](https://www.youtube.com/watch?v=3-2Pj5hxwrw)
 
 # 博客
