@@ -13,6 +13,7 @@
 
 # HTML CSS JAVASCRIPT视频
 * [金职位 大前端进阶【完结】609 个视频](https://www.youtube.com/playlist?list=PL-fouz1yopdpm6pFW1IMEYah6_tntmSQh)
+* [前端工程化精讲](https://www.youtube.com/playlist?list=PL5d0qARooeQj1Yt3wwyzIHywgfTUN21ku)
 * [HTML CSS Javascript Website Tutorial - Responsive Beginner JS Project with Smooth Scroll](https://www.youtube.com/watch?v=3-2Pj5hxwrw)
 
 # 博客
