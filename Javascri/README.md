@@ -12,9 +12,10 @@
 * [JavaScript DOM编程艺术（第2版）---一个案例，让你从头到尾实现出来](https://weread.qq.com/web/reader/7a8324c071a123567a89289)
 * [JavaScript语言精髓与实践  周爱民](https://weread.qq.com/web/reader/65a326505bcb6065a793bbb)
 
+# 30天学会JavaScript编程语言
+* [30DaysOfJavaScript](https://mp.weixin.qq.com/s/9xVPSc81ncm2KnMeruH-ow)
 
 # 英文的项目实战
-
 * [Free JavaScript Projects 系列](https://www.sourcecodeexamples.net/p/free-javascript-projects.html)
 
 # JavaScript 视频
@@ -23,6 +24,9 @@
  * [尚硅谷JavaScript高级篇](https://www.bilibili.com/video/av51745204/?spm_id_from=333.788.videocard.0)
  * [JavaScript DOM编程_尚硅谷_佟刚](https://www.bilibili.com/video/av61827921?from=search&seid=14568322783589878511)
  * [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=43s)
+
+
+
 # 有用的参考
 
 * [JavaScript 事件循环及异步原理](https://juejin.im/post/5bc1adc45188255c82553921)
