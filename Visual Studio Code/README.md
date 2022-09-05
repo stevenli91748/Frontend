@@ -37,6 +37,7 @@
 
 # 视频
 * setup develope enviroment
+  * [VSCode搭建远程Docker容器化开发环境](https://www.bilibili.com/video/BV1Te4y197sb?spm_id_from=333.337.search-card.all.click&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
   * [VSCode快速开始Spring Boot开发](https://www.youtube.com/watch?v=gxbdoiwFfbM) 
   * [How to Set Up Java Development in Visual Studio Code on Windows ](https://www.youtube.com/watch?v=ClU9N4ub_Ko)
   * [Get started with Visual Studio Code](https://www.youtube.com/watch?v=S320N3sxinE&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6)
