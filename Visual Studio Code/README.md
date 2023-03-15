@@ -49,5 +49,6 @@
 # 参考
 * [教你如何用vscode搭建原生app开发环境](https://www.jianshu.com/p/378930364493)
 * [官网文档](https://code.visualstudio.com/docs)
+* [使用VSCode做远程云端开发](https://zhuanlan.zhihu.com/p/336071497)
 
 
