@@ -63,6 +63,9 @@
 
 # React 教程
 
+[React 英文教程](https://www.w3schools.com/react/react_components.asp)|[React 中文教程 ](https://www.runoob.com/react/react-tutorial.html)|[Next.js 教程](https://www.runoob.com/nextjs/nextjs-tutorial.html)|
+---|---|---|
+
 [React各种项目实战教程](https://www.youtube.com/c/LamaDev/videos)|
 ---|
 
